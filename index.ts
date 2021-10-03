@@ -45,8 +45,6 @@ let layouts: Layout[] = JSON.parse(
 
 let words: Word[] = JSON.parse(fs.readFileSync("./data/words.json").toString());
 
-console.log(words);
-
 console.log(compileTitle(testTitle).value);
 // ************************************************
 
