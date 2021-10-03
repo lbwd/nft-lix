@@ -28,21 +28,24 @@ enum wordType {
 // Test objs
 let testWord: word = {
 	type: wordType.Noun,
-	subType: '',
-	value: 'Employer',
+	subType: "",
+	value: "Employer",
 	article: true,
 };
 
 let testLayout: titleLayout = {
-	layout: '{0}',
+	layout: "{0}",
 	words: [{ word: testWord }],
 };
 
 // Functions
 function compileTitle(title: titleLayout) {
 	title.value = title.layout;
-	let re = new RegExp('{(.)}', 'i');
-	title.value = title.value.replace(re, title.words['$1'].word.value);
+	let re = new RegExp("{(.)}", "i");
+	title.value = title.value.replace(re, (match) => {
+		let index = match.substring(1, 2);
+		return title.words[parseInt(index)].word.value;
+	});
 
 	return title;
 }
