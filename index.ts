@@ -1,4 +1,5 @@
 import { Layout, Title, TitleWord, Word, WordType } from "./types";
+import * as fs from "fs";
 
 // Test objs
 let testWord: Word = {
@@ -37,6 +38,18 @@ let testTitle: Title = {
 	words: [testTitleWord, testTitleWord2],
 };
 
+// Main
+let layouts: Layout[] = JSON.parse(
+	fs.readFileSync("./data/layouts.json").toString()
+);
+
+let words: Word[] = JSON.parse(fs.readFileSync("./data/words.json").toString());
+
+console.log(words);
+
+console.log(compileTitle(testTitle).value);
+// ************************************************
+
 // Functions
 function compileTitle(title: Title) {
 	title.value = title.layout.value;
@@ -57,6 +70,3 @@ function compileTitle(title: Title) {
 	title.value = title.value.charAt(0).toUpperCase() + title.value.slice(1);
 	return title;
 }
-
-// Main
-console.log(compileTitle(testTitle).value);

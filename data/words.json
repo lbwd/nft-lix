@@ -1,0 +1,22 @@
+[
+	{
+		"type": "Noun",
+		"subType": "",
+		"value": "employer",
+		"pluralValue": "employers",
+		"article": true
+	},
+	{
+		"type": "Noun",
+		"subType": "",
+		"value": "wave",
+		"pluralValue": "waves",
+		"article": true
+	},
+	{
+		"type": "Noun",
+		"subType": "",
+		"value": "volume",
+		"article": true
+	}
+]

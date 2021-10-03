@@ -30,8 +30,8 @@ export type WordProperties = {
 };
 
 export enum WordType {
-	Noun,
-	Verb,
-	Adjective,
-	FromArray,
+	Noun = "Noun",
+	Verb = "Verb",
+	Adjective = "Adjective",
+	FromArray = "FromArray",
 }

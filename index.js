@@ -1,6 +1,7 @@
 "use strict";
 exports.__esModule = true;
 var types_1 = require("./types");
+var fs = require("fs");
 // Test objs
 var testWord = {
     type: types_1.WordType.Noun,
@@ -25,12 +26,19 @@ var testTitleWord2 = {
     properties: { article: true, plural: true }
 };
 var testLayout = {
-    value: "{0} from {1}"
+    value: "{0} from {1}",
+    types: [types_1.WordType.Noun, types_1.WordType.Noun]
 };
 var testTitle = {
     layout: testLayout,
     words: [testTitleWord, testTitleWord2]
 };
+// Main
+var layouts = JSON.parse(fs.readFileSync("./data/layouts.json").toString());
+var words = JSON.parse(fs.readFileSync("./data/words.json").toString());
+console.log(words);
+console.log(compileTitle(testTitle).value);
+// ************************************************
 // Functions
 function compileTitle(title) {
     title.value = title.layout.value;
@@ -51,5 +59,3 @@ function compileTitle(title) {
     title.value = title.value.charAt(0).toUpperCase() + title.value.slice(1);
     return title;
 }
-// Main
-console.log(compileTitle(testTitle).value);
