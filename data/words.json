@@ -20,570 +20,6 @@
 		"article": true
 	},
   {
-    "value": "abolish",
-    "valueThird": "abolishes",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "access",
-    "valueThird": "accesss",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "adapt",
-    "valueThird": "adapts",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "assess",
-    "valueThird": "assesss",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "attract",
-    "valueThird": "attracts",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "balance",
-    "valueThird": "balances",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "become",
-    "valueThird": "becomes",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "borrow",
-    "valueThird": "borrows",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "build",
-    "valueThird": "builds",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "carve",
-    "valueThird": "carves",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "cast",
-    "valueThird": "casts",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "cater",
-    "valueThird": "caters",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "climb",
-    "valueThird": "climbs",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "command",
-    "valueThird": "commands",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "comment",
-    "valueThird": "comments",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "compel",
-    "valueThird": "compels",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "concede",
-    "valueThird": "concedes",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "connect",
-    "valueThird": "connects",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "contract",
-    "valueThird": "contracts",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "convey",
-    "valueThird": "conveys",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "cool",
-    "valueThird": "cools",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "copy",
-    "valueThird": "copies",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "count",
-    "valueThird": "counts",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "crack",
-    "valueThird": "cracks",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "criticise",
-    "valueThird": "criticises",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "damage",
-    "valueThird": "damages",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "defend",
-    "valueThird": "defends",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "delay",
-    "valueThird": "delays",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "derive",
-    "valueThird": "derives",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "differentiate",
-    "valueThird": "differentiates",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "dissolve",
-    "valueThird": "dissolves",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "dream",
-    "valueThird": "dreams",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "emphasize",
-    "valueThird": "emphasizes",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "escape",
-    "valueThird": "escapes",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "exist",
-    "valueThird": "exists",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "fine",
-    "valueThird": "fines",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "frown",
-    "valueThird": "frowns",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "gasp",
-    "valueThird": "gasps",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "gather",
-    "valueThird": "gathers",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "grin",
-    "valueThird": "grins",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "grow",
-    "valueThird": "grows",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "have",
-    "valueThird": "haves",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "import",
-    "valueThird": "imports",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "influence",
-    "valueThird": "influences",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "inform",
-    "valueThird": "informs",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "isolate",
-    "valueThird": "isolates",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "kill",
-    "valueThird": "kills",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "knit",
-    "valueThird": "knits",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "land",
-    "valueThird": "lands",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "lend",
-    "valueThird": "lends",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "lie",
-    "valueThird": "lies",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "match",
-    "valueThird": "matches",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "matter",
-    "valueThird": "matters",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "modify",
-    "valueThird": "modifies",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "monitor",
-    "valueThird": "monitors",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "oppose",
-    "valueThird": "opposes",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "organize",
-    "valueThird": "organizes",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "pack",
-    "valueThird": "packs",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "plant",
-    "valueThird": "plants",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "play",
-    "valueThird": "plays",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "plead",
-    "valueThird": "pleads",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "plunge",
-    "valueThird": "plunges",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "position",
-    "valueThird": "positions",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "possess",
-    "valueThird": "possesss",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "prove",
-    "valueThird": "proves",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "publish",
-    "valueThird": "publishes",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "put",
-    "valueThird": "puts",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "range",
-    "valueThird": "ranges",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "reduce",
-    "valueThird": "reduces",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "register",
-    "valueThird": "registers",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "reply",
-    "valueThird": "replys",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "research",
-    "valueThird": "researches",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "reserve",
-    "valueThird": "reserves",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "resume",
-    "valueThird": "resumes",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "schedule",
-    "valueThird": "schedules",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "see",
-    "valueThird": "sees",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "seek",
-    "valueThird": "seeks",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "sigh",
-    "valueThird": "sighes",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "sign",
-    "valueThird": "signs",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "specify",
-    "valueThird": "specifies",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "state",
-    "valueThird": "states",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "stroke",
-    "valueThird": "strokes",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "submit",
-    "valueThird": "submits",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "suck",
-    "valueThird": "sucks",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "suggest",
-    "valueThird": "suggests",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "supervise",
-    "valueThird": "supervises",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "tap",
-    "valueThird": "taps",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "touch",
-    "valueThird": "touches",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "trace",
-    "valueThird": "traces",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "transfer",
-    "valueThird": "transfers",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "translate",
-    "valueThird": "translates",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "waste",
-    "valueThird": "wastes",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "wish",
-    "valueThird": "wishes",
-    "type": "",
-    "subType": ""
-  },
-  {
-    "value": "write",
-    "valueThird": "writes",
-    "type": "",
-    "subType": ""
-  },
-  {
     "value": "accident",
     "type": "Noun",
     "subType": "",
@@ -1240,5 +676,1064 @@
     "subType": "",
     "pluralValue": "worlds",
     "article": true
+  },
+  {
+    "value": "abolish",
+    "valueThird": "abolishes",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "access",
+    "valueThird": "accesss",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "adapt",
+    "valueThird": "adapts",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "assess",
+    "valueThird": "assesss",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "attract",
+    "valueThird": "attracts",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "balance",
+    "valueThird": "balances",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "become",
+    "valueThird": "becomes",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "borrow",
+    "valueThird": "borrows",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "build",
+    "valueThird": "builds",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "carve",
+    "valueThird": "carves",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "cast",
+    "valueThird": "casts",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "cater",
+    "valueThird": "caters",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "climb",
+    "valueThird": "climbs",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "command",
+    "valueThird": "commands",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "comment",
+    "valueThird": "comments",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "compel",
+    "valueThird": "compels",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "concede",
+    "valueThird": "concedes",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "connect",
+    "valueThird": "connects",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "contract",
+    "valueThird": "contracts",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "convey",
+    "valueThird": "conveys",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "cool",
+    "valueThird": "cools",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "copy",
+    "valueThird": "copies",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "count",
+    "valueThird": "counts",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "crack",
+    "valueThird": "cracks",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "criticise",
+    "valueThird": "criticises",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "damage",
+    "valueThird": "damages",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "defend",
+    "valueThird": "defends",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "delay",
+    "valueThird": "delays",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "derive",
+    "valueThird": "derives",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "differentiate",
+    "valueThird": "differentiates",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "dissolve",
+    "valueThird": "dissolves",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "dream",
+    "valueThird": "dreams",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "emphasize",
+    "valueThird": "emphasizes",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "escape",
+    "valueThird": "escapes",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "exist",
+    "valueThird": "exists",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "fine",
+    "valueThird": "fines",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "frown",
+    "valueThird": "frowns",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "gasp",
+    "valueThird": "gasps",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "gather",
+    "valueThird": "gathers",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "grin",
+    "valueThird": "grins",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "grow",
+    "valueThird": "grows",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "have",
+    "valueThird": "haves",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "import",
+    "valueThird": "imports",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "influence",
+    "valueThird": "influences",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "inform",
+    "valueThird": "informs",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "isolate",
+    "valueThird": "isolates",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "kill",
+    "valueThird": "kills",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "knit",
+    "valueThird": "knits",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "land",
+    "valueThird": "lands",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "lend",
+    "valueThird": "lends",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "lie",
+    "valueThird": "lies",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "match",
+    "valueThird": "matches",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "matter",
+    "valueThird": "matters",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "modify",
+    "valueThird": "modifies",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "monitor",
+    "valueThird": "monitors",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "oppose",
+    "valueThird": "opposes",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "organize",
+    "valueThird": "organizes",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "pack",
+    "valueThird": "packs",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "plant",
+    "valueThird": "plants",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "play",
+    "valueThird": "plays",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "plead",
+    "valueThird": "pleads",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "plunge",
+    "valueThird": "plunges",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "position",
+    "valueThird": "positions",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "possess",
+    "valueThird": "possesss",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "prove",
+    "valueThird": "proves",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "publish",
+    "valueThird": "publishes",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "put",
+    "valueThird": "puts",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "range",
+    "valueThird": "ranges",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "reduce",
+    "valueThird": "reduces",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "register",
+    "valueThird": "registers",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "reply",
+    "valueThird": "replys",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "research",
+    "valueThird": "researches",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "reserve",
+    "valueThird": "reserves",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "resume",
+    "valueThird": "resumes",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "schedule",
+    "valueThird": "schedules",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "see",
+    "valueThird": "sees",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "seek",
+    "valueThird": "seeks",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "sigh",
+    "valueThird": "sighes",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "sign",
+    "valueThird": "signs",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "specify",
+    "valueThird": "specifies",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "state",
+    "valueThird": "states",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "stroke",
+    "valueThird": "strokes",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "submit",
+    "valueThird": "submits",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "suck",
+    "valueThird": "sucks",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "suggest",
+    "valueThird": "suggests",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "supervise",
+    "valueThird": "supervises",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "tap",
+    "valueThird": "taps",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "touch",
+    "valueThird": "touches",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "trace",
+    "valueThird": "traces",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "transfer",
+    "valueThird": "transfers",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "translate",
+    "valueThird": "translates",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "waste",
+    "valueThird": "wastes",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "wish",
+    "valueThird": "wishes",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "write",
+    "valueThird": "writes",
+    "type": "Verb",
+    "subType": ""
+  },
+  {
+    "value": "abaft",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "abnormal",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "acceptable",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "afraid",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "ambitious",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "amused",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "ancient",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "anxious",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "apathetic",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "available",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "big",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "broad",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "cheap",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "clammy",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "colossal",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "combative",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "confused",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "coordinated",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "crazy",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "creepy",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "cultured",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "curly",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "curved",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "debonair",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "defeated",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "defiant",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "descriptive",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "deserted",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "detailed",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "determined",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "direful",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "doubtful",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "dreary",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "dull",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "entertaining",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "ethereal",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "fallacious",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "first",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "frantic",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "glistening",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "gratis",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "gray",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "groovy",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "gullible",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "harmonious",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "heavy",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "hollow",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "honorable",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "hurt",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "immense",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "jumpy",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "kaput",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "knotty",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "labored",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "left",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "level",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "lewd",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "luxuriant",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "massive",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "merciful",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "naughty",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "near",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "neighborly",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "nine",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "nondescript",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "numberless",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "ossified",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "panoramic",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "perpetual",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "poised",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "pumped",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "purring",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "ragged",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "rebel",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "recent",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "remarkable",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "reminiscent",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "scary",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "shaky",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "shiny",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "short",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "similar",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "smooth",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "somber",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "squeamish",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "staking",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "strong",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "tacky",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "ten",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "tense",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "tired",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "truculent",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "unadvised",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "unhealthy",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "unlikely",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "uttermost",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "wrong",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "zealous",
+    "type": "Adjective",
+    "subType": "Affix"
+  },
+  {
+    "value": "zippy",
+    "type": "Adjective",
+    "subType": "Affix"
   }
 ]
