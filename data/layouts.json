@@ -20,6 +20,10 @@
 		"types": ["Noun", "Noun"]
 	},
 	{
+		"value": "{0} inside {1}",
+		"types": ["Noun", "Noun"]
+	},
+	{
 		"value": "About {0}",
 		"types": ["Noun"]
 	},
@@ -42,5 +46,9 @@
 	{
 		"value": "{0}: {1} {2}",                  
 		"types": ["Noun","Verb", "Noun"]
+	},
+	{
+		"value": "I am {0}",                  
+		"types": ["Noun"]
 	}
 ]
