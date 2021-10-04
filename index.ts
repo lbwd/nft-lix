@@ -4,6 +4,8 @@ import { Layout, Title, TitleWord, Word, WordProperties } from "./types";
 // ************************************************
 // ******************  Main  **********************
 // ************************************************
+const RANDOM_RUN = 10;
+
 // Read layouts file
 let layouts: Layout[] = JSON.parse(
 	fs.readFileSync("./data/layouts.json").toString()
@@ -13,30 +15,32 @@ let layouts: Layout[] = JSON.parse(
 let words: Word[] = JSON.parse(fs.readFileSync("./data/words.json").toString());
 
 // Random layout
-let layout = layouts[Math.floor(Math.random() * layouts.length)];
+for (let i = 0; i < RANDOM_RUN; i++) {
+	let layout = layouts[Math.floor(Math.random() * layouts.length)];
 
-let title: Title = {
-	layout: layout,
-	words: [],
-};
-layout.types.forEach((type) => {
-	let ofTypeWords: Word[] = words.filter((word) => word.type === type);
-	let randomedWord: Word =
-		ofTypeWords[Math.floor(Math.random() * ofTypeWords.length)];
-	let wordProperties: WordProperties = {
-		article: Math.random() < 0.5,
-		plural: Math.random() < 0.5,
+	let title: Title = {
+		layout: layout,
+		words: [],
 	};
+	layout.types.forEach((type) => {
+		let ofTypeWords: Word[] = words.filter((word) => word.type === type);
+		let randomedWord: Word =
+			ofTypeWords[Math.floor(Math.random() * ofTypeWords.length)];
+		let wordProperties: WordProperties = {
+			article: Math.random() < 0.5,
+			plural: Math.random() < 0.5,
+		};
 
-	let titleWord: TitleWord = {
-		word: randomedWord,
-		properties: wordProperties,
-	};
+		let titleWord: TitleWord = {
+			word: randomedWord,
+			properties: wordProperties,
+		};
 
-	title.words.push(titleWord);
-});
+		title.words.push(titleWord);
+	});
 
-console.log(compileTitle(title).value);
+	console.log(compileTitle(title).value);
+}
 // ************************************************
 // ************************************************
 // ************************************************

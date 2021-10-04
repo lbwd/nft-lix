@@ -1,65 +1,39 @@
 "use strict";
 exports.__esModule = true;
 var fs = require("fs");
-var types_1 = require("./types");
-// Test objs
-var testWord = {
-    type: types_1.WordType.Noun,
-    subType: "",
-    value: "employer",
-    pluralValue: "employers",
-    article: true
-};
-var testTitleWord = {
-    word: testWord,
-    properties: { plural: true }
-};
-var testWord2 = {
-    type: types_1.WordType.Noun,
-    subType: "",
-    value: "wave",
-    pluralValue: "waves",
-    article: true
-};
-var testTitleWord2 = {
-    word: testWord2,
-    properties: { article: true, plural: true }
-};
-var testLayout = {
-    value: "{0} from {1}",
-    types: [types_1.WordType.Noun, types_1.WordType.Noun]
-};
-var testTitle = {
-    layout: testLayout,
-    words: [testTitleWord, testTitleWord2]
-};
 // ************************************************
 // ******************  Main  **********************
 // ************************************************
+var RANDOM_RUN = 10;
 // Read layouts file
 var layouts = JSON.parse(fs.readFileSync("./data/layouts.json").toString());
 // Read words file
 var words = JSON.parse(fs.readFileSync("./data/words.json").toString());
-// Random layout
-var layout = layouts[Math.floor(Math.random() * layouts.length)];
-var title = {
-    layout: layout,
-    words: []
+var _loop_1 = function (i) {
+    var layout = layouts[Math.floor(Math.random() * layouts.length)];
+    var title = {
+        layout: layout,
+        words: []
+    };
+    layout.types.forEach(function (type) {
+        var ofTypeWords = words.filter(function (word) { return word.type === type; });
+        var randomedWord = ofTypeWords[Math.floor(Math.random() * ofTypeWords.length)];
+        var wordProperties = {
+            article: Math.random() < 0.5,
+            plural: Math.random() < 0.5
+        };
+        var titleWord = {
+            word: randomedWord,
+            properties: wordProperties
+        };
+        title.words.push(titleWord);
+    });
+    console.log(compileTitle(title).value);
 };
-layout.types.forEach(function (type) {
-    var ofTypeWords = words.filter(function (word) { return word.type === type; });
-    var randomedWord = ofTypeWords[Math.floor(Math.random() * ofTypeWords.length)];
-    var wordProperties = {
-        article: Math.random() < 0.5,
-        plural: Math.random() < 0.5
-    };
-    var titleWord = {
-        word: randomedWord,
-        properties: wordProperties
-    };
-    title.words.push(titleWord);
-});
-console.log(compileTitle(title).value);
+// Random layout
+for (var i = 0; i < RANDOM_RUN; i++) {
+    _loop_1(i);
+}
 // ************************************************
 // ************************************************
 // ************************************************
