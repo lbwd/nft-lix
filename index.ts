@@ -1,51 +1,44 @@
-import { Layout, Title, TitleWord, Word, WordType } from "./types";
 import * as fs from "fs";
+import { Layout, Title, TitleWord, Word, WordProperties } from "./types";
 
-// Test objs
-let testWord: Word = {
-	type: WordType.Noun,
-	subType: "",
-	value: "employer",
-	pluralValue: "employers",
-	article: true,
-};
-
-let testTitleWord: TitleWord = {
-	word: testWord,
-	properties: { plural: true },
-};
-
-let testWord2: Word = {
-	type: WordType.Noun,
-	subType: "",
-	value: "wave",
-	pluralValue: "waves",
-	article: true,
-};
-
-let testTitleWord2: TitleWord = {
-	word: testWord2,
-	properties: { article: true, plural: true },
-};
-
-let testLayout: Layout = {
-	value: "{0} from {1}",
-	types: [WordType.Noun, WordType.Noun],
-};
-
-let testTitle: Title = {
-	layout: testLayout,
-	words: [testTitleWord, testTitleWord2],
-};
-
-// Main
+// ************************************************
+// ******************  Main  **********************
+// ************************************************
+// Read layouts file
 let layouts: Layout[] = JSON.parse(
 	fs.readFileSync("./data/layouts.json").toString()
 );
 
+// Read words file
 let words: Word[] = JSON.parse(fs.readFileSync("./data/words.json").toString());
 
-console.log(compileTitle(testTitle).value);
+// Random layout
+let layout = layouts[Math.floor(Math.random() * layouts.length)];
+
+let title: Title = {
+	layout: layout,
+	words: [],
+};
+layout.types.forEach((type) => {
+	let ofTypeWords: Word[] = words.filter((word) => word.type === type);
+	let randomedWord: Word =
+		ofTypeWords[Math.floor(Math.random() * ofTypeWords.length)];
+	let wordProperties: WordProperties = {
+		article: Math.random() < 0.5,
+		plural: Math.random() < 0.5,
+	};
+
+	let titleWord: TitleWord = {
+		word: randomedWord,
+		properties: wordProperties,
+	};
+
+	title.words.push(titleWord);
+});
+
+console.log(compileTitle(title).value);
+// ************************************************
+// ************************************************
 // ************************************************
 
 // Functions

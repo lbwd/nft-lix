@@ -1,7 +1,7 @@
 "use strict";
 exports.__esModule = true;
-var types_1 = require("./types");
 var fs = require("fs");
+var types_1 = require("./types");
 // Test objs
 var testWord = {
     type: types_1.WordType.Noun,
@@ -33,11 +33,35 @@ var testTitle = {
     layout: testLayout,
     words: [testTitleWord, testTitleWord2]
 };
-// Main
+// ************************************************
+// ******************  Main  **********************
+// ************************************************
+// Read layouts file
 var layouts = JSON.parse(fs.readFileSync("./data/layouts.json").toString());
+// Read words file
 var words = JSON.parse(fs.readFileSync("./data/words.json").toString());
-console.log(words);
-console.log(compileTitle(testTitle).value);
+// Random layout
+var layout = layouts[Math.floor(Math.random() * layouts.length)];
+var title = {
+    layout: layout,
+    words: []
+};
+layout.types.forEach(function (type) {
+    var ofTypeWords = words.filter(function (word) { return word.type === type; });
+    var randomedWord = ofTypeWords[Math.floor(Math.random() * ofTypeWords.length)];
+    var wordProperties = {
+        article: Math.random() < 0.5,
+        plural: Math.random() < 0.5
+    };
+    var titleWord = {
+        word: randomedWord,
+        properties: wordProperties
+    };
+    title.words.push(titleWord);
+});
+console.log(compileTitle(title).value);
+// ************************************************
+// ************************************************
 // ************************************************
 // Functions
 function compileTitle(title) {
