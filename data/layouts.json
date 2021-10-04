@@ -2,5 +2,45 @@
 	{
 		"value": "{0} from {1}",
 		"types": ["Noun", "Noun"]
+	},
+	{
+		"value": "{0} behind {1}",
+		"types": ["Noun", "Noun"]
+	},
+	{
+		"value": "{0} under {1}",
+		"types": ["Noun", "Noun"]
+	},
+	{
+		"value": "{0} after {1}",
+		"types": ["Noun", "Noun"]
+	},
+	{
+		"value": "{0} before {1}",
+		"types": ["Noun", "Noun"]
+	},
+	{
+		"value": "About {0}",
+		"types": ["Noun"]
+	},
+	{
+		"value": "{0}",
+		"types": ["Noun"]
+	},
+	{
+		"value": "{0} in the {1}",
+		"types": ["Noun","Noun"]
+	},
+	{
+		"value": "{0} {1} {2}",                  
+		"types": ["Noun","Verb", "Noun"]
+	},
+	{
+		"value": "{0} {1} {2} {3}",                  
+		"types": ["Adjective","Noun", "Verb", "Noun"]
+	},
+	{
+		"value": "{0}: {1} {2}",                  
+		"types": ["Noun","Verb", "Noun"]
 	}
 ]
