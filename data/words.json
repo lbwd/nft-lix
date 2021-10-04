@@ -18,5 +18,1228 @@
 		"subType": "",
 		"value": "volume",
 		"article": true
-	}
+	},
+  {
+    "value": "Accident",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Accidents",
+    "article": true
+  },
+  {
+    "value": "Actor",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Actors",
+    "article": true
+  },
+  {
+    "value": "Agency",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Agencies",
+    "article": true
+  },
+  {
+    "value": "Ambition",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Ambitions",
+    "article": true
+  },
+  {
+    "value": "Appointment",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Appointments",
+    "article": true
+  },
+  {
+    "value": "Argument",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Arguments",
+    "article": true
+  },
+  {
+    "value": "Art",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Arts",
+    "article": true
+  },
+  {
+    "value": "Atmosphere",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Atmospheres",
+    "article": true
+  },
+  {
+    "value": "Birthday",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Birthday",
+    "article": true
+  },
+  {
+    "value": "Bread",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Breads",
+    "article": true
+  },
+  {
+    "value": "Breath",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Breaths",
+    "article": true
+  },
+  {
+    "value": "Childhood",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Childhoods",
+    "article": true
+  },
+  {
+    "value": "City",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Cities",
+    "article": true
+  },
+  {
+    "value": "Clothes",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Clothess",
+    "article": true
+  },
+  {
+    "value": "Coffee",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Coffees",
+    "article": false
+  },
+  {
+    "value": "College",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Colleges",
+    "article": true
+  },
+  {
+    "value": "Control",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Controls",
+    "article": true
+  },
+  {
+    "value": "Criticism",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Criticisms",
+    "article": true
+  },
+  {
+    "value": "Departure",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Departures",
+    "article": true
+  },
+  {
+    "value": "Difference",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Differences",
+    "article": true
+  },
+  {
+    "value": "Director",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Directors",
+    "article": true
+  },
+  {
+    "value": "Disaster",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Disasters",
+    "article": true
+  },
+  {
+    "value": "Ear",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Ears",
+    "article": true
+  },
+  {
+    "value": "Editor",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Editors",
+    "article": true
+  },
+  {
+    "value": "Election",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Elections",
+    "article": true
+  },
+  {
+    "value": "Employer",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Employers",
+    "article": true
+  },
+  {
+    "value": "Engine",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Engines",
+    "article": true
+  },
+  {
+    "value": "Engineering",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Engineerings",
+    "article": true
+  },
+  {
+    "value": "Estate",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Estates",
+    "article": true
+  },
+  {
+    "value": "Examination",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Examinations",
+    "article": true
+  },
+  {
+    "value": "Expression",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Expressions",
+    "article": true
+  },
+  {
+    "value": "Extent",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Extents",
+    "article": true
+  },
+  {
+    "value": "Family",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Family",
+    "article": true
+  },
+  {
+    "value": "Fishing",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Fishings",
+    "article": true
+  },
+  {
+    "value": "Girlfriend",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Girlfriends",
+    "article": true
+  },
+  {
+    "value": "Goal",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Goals",
+    "article": true
+  },
+  {
+    "value": "Guest",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Guests",
+    "article": true
+  },
+  {
+    "value": "Heart",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Hearts",
+    "article": true
+  },
+  {
+    "value": "Historian",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Historians",
+    "article": false
+  },
+  {
+    "value": "Income",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Incomes",
+    "article": true
+  },
+  {
+    "value": "Inspection",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Inspections",
+    "article": true
+  },
+  {
+    "value": "Instance",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Instances",
+    "article": true
+  },
+  {
+    "value": "Insurance",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Insurances",
+    "article": true
+  },
+  {
+    "value": "Introduction",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Introductions",
+    "article": true
+  },
+  {
+    "value": "Knowledge",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Knowledges",
+    "article": true
+  },
+  {
+    "value": "Ladder",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Ladders",
+    "article": true
+  },
+  {
+    "value": "Lady",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Ladies",
+    "article": true
+  },
+  {
+    "value": "Leader",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Leaders",
+    "article": true
+  },
+  {
+    "value": "Library",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Libraries",
+    "article": true
+  },
+  {
+    "value": "Literature",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Literatures",
+    "article": true
+  },
+  {
+    "value": "Magazine",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Magazines",
+    "article": true
+  },
+  {
+    "value": "Maintenance",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Maintenances",
+    "article": true
+  },
+  {
+    "value": "Mall",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Malls",
+    "article": true
+  },
+  {
+    "value": "Management",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Managements",
+    "article": true
+  },
+  {
+    "value": "Manufacturer",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Manufacturers",
+    "article": true
+  },
+  {
+    "value": "Meaning",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Meanings",
+    "article": true
+  },
+  {
+    "value": "Membership",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Memberships",
+    "article": true
+  },
+  {
+    "value": "Message",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Messages",
+    "article": true
+  },
+  {
+    "value": "Midnight",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Midnights",
+    "article": true
+  },
+  {
+    "value": "Operation",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Operations",
+    "article": true
+  },
+  {
+    "value": "Passenger",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Passengers",
+    "article": true
+  },
+  {
+    "value": "Passion",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Passions",
+    "article": true
+  },
+  {
+    "value": "Percentage",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Percentages",
+    "article": true
+  },
+  {
+    "value": "Performance",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Performances",
+    "article": true
+  },
+  {
+    "value": "Person",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Persons",
+    "article": true
+  },
+  {
+    "value": "Personality",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Personalities",
+    "article": true
+  },
+  {
+    "value": "Philosophy",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Philosophy",
+    "article": true
+  },
+  {
+    "value": "Piano",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Pianos",
+    "article": true
+  },
+  {
+    "value": "Pie",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Pies",
+    "article": true
+  },
+  {
+    "value": "Pizza",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Pizzas",
+    "article": false
+  },
+  {
+    "value": "Platform",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Platforms",
+    "article": true
+  },
+  {
+    "value": "Politics",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Politicss",
+    "article": true
+  },
+  {
+    "value": "Possession",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Possessions",
+    "article": true
+  },
+  {
+    "value": "President",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Presidents",
+    "article": true
+  },
+  {
+    "value": "Problem",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Problems",
+    "article": true
+  },
+  {
+    "value": "Procedure",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Procedures",
+    "article": true
+  },
+  {
+    "value": "Promotion",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Promotions",
+    "article": true
+  },
+  {
+    "value": "Property",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Properties",
+    "article": true
+  },
+  {
+    "value": "Reception",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Receptions",
+    "article": true
+  },
+  {
+    "value": "Republic",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Republics",
+    "article": true
+  },
+  {
+    "value": "Resolution",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Resolutions",
+    "article": true
+  },
+  {
+    "value": "Responsibility",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Responsibilities",
+    "article": true
+  },
+  {
+    "value": "Scene",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Scenes",
+    "article": true
+  },
+  {
+    "value": "Session",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Sessions",
+    "article": true
+  },
+  {
+    "value": "Signature",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Signatures",
+    "article": true
+  },
+  {
+    "value": "Student",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Students",
+    "article": true
+  },
+  {
+    "value": "Surgery",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Surgery",
+    "article": true
+  },
+  {
+    "value": "Teaching",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Teachings",
+    "article": true
+  },
+  {
+    "value": "Tradition",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Traditions",
+    "article": true
+  },
+  {
+    "value": "Unit",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Units",
+    "article": true
+  },
+  {
+    "value": "Variation",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Variations",
+    "article": true
+  },
+  {
+    "value": "Wife",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Wifes",
+    "article": true
+  },
+  {
+    "value": "Woman",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Womans",
+    "article": true
+  },
+  {
+    "value": "World",
+    "type": "Noun",
+    "subType": "",
+    "pluralValue": "Worlds",
+    "article": true
+  },
+  {
+    "value": "Abolish",
+    "valueThird": "Abolishes",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Access",
+    "valueThird": "Accesss",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Adapt",
+    "valueThird": "Adapts",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Assess",
+    "valueThird": "Assesss",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Attract",
+    "valueThird": "Attracts",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Balance",
+    "valueThird": "Balances",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Become",
+    "valueThird": "Becomes",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Borrow",
+    "valueThird": "Borrows",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Build",
+    "valueThird": "Builds",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Carve",
+    "valueThird": "Carves",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Cast",
+    "valueThird": "Casts",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Cater",
+    "valueThird": "Caters",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Climb",
+    "valueThird": "Climbs",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Command",
+    "valueThird": "Commands",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Comment",
+    "valueThird": "Comments",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Compel",
+    "valueThird": "Compels",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Concede",
+    "valueThird": "Concedes",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Connect",
+    "valueThird": "Connects",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Contract",
+    "valueThird": "Contracts",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Convey",
+    "valueThird": "Conveys",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Cool",
+    "valueThird": "Cools",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Copy",
+    "valueThird": "Copies",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Count",
+    "valueThird": "Counts",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Crack",
+    "valueThird": "Cracks",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Criticise",
+    "valueThird": "Criticises",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Damage",
+    "valueThird": "Damages",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Defend",
+    "valueThird": "Defends",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Delay",
+    "valueThird": "Delays",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Derive",
+    "valueThird": "Derives",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Differentiate",
+    "valueThird": "Differentiates",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Dissolve",
+    "valueThird": "Dissolves",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Dream",
+    "valueThird": "Dreams",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Emphasize",
+    "valueThird": "Emphasizes",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Escape",
+    "valueThird": "Escapes",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Exist",
+    "valueThird": "Exists",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Fine",
+    "valueThird": "Fines",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Frown",
+    "valueThird": "Frowns",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Gasp",
+    "valueThird": "Gasps",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Gather",
+    "valueThird": "Gathers",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Grin",
+    "valueThird": "Grins",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Grow",
+    "valueThird": "Grows",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Have",
+    "valueThird": "Haves",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Import",
+    "valueThird": "Imports",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Influence",
+    "valueThird": "Influences",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Inform",
+    "valueThird": "Informs",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Isolate",
+    "valueThird": "Isolates",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Kill",
+    "valueThird": "Kills",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Knit",
+    "valueThird": "Knits",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Land",
+    "valueThird": "Lands",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Lend",
+    "valueThird": "Lends",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Lie",
+    "valueThird": "Lies",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Match",
+    "valueThird": "Matches",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Matter",
+    "valueThird": "Matters",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Modify",
+    "valueThird": "Modifies",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Monitor",
+    "valueThird": "Monitors",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Oppose",
+    "valueThird": "Opposes",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Organize",
+    "valueThird": "Organizes",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Pack",
+    "valueThird": "Packs",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Plant",
+    "valueThird": "Plants",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Play",
+    "valueThird": "Plays",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Plead",
+    "valueThird": "Pleads",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Plunge",
+    "valueThird": "Plunges",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Position",
+    "valueThird": "Positions",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Possess",
+    "valueThird": "Possesss",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Prove",
+    "valueThird": "Proves",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Publish",
+    "valueThird": "Publishes",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Put",
+    "valueThird": "Puts",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Range",
+    "valueThird": "Ranges",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Reduce",
+    "valueThird": "Reduces",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Register",
+    "valueThird": "Registers",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Reply",
+    "valueThird": "Replys",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Research",
+    "valueThird": "Researches",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Reserve",
+    "valueThird": "Reserves",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Resume",
+    "valueThird": "Resumes",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Schedule",
+    "valueThird": "Schedules",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "See",
+    "valueThird": "Sees",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Seek",
+    "valueThird": "Seeks",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Sigh",
+    "valueThird": "Sighes",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Sign",
+    "valueThird": "Signs",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Specify",
+    "valueThird": "Specifies",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "State",
+    "valueThird": "States",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Stroke",
+    "valueThird": "Strokes",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Submit",
+    "valueThird": "Submits",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Suck",
+    "valueThird": "Sucks",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Suggest",
+    "valueThird": "Suggests",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Supervise",
+    "valueThird": "Supervises",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Tap",
+    "valueThird": "Taps",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Touch",
+    "valueThird": "Touches",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Trace",
+    "valueThird": "Traces",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Transfer",
+    "valueThird": "Transfers",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Translate",
+    "valueThird": "Translates",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Waste",
+    "valueThird": "Wastes",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Wish",
+    "valueThird": "Wishes",
+    "type": "",
+    "subType": ""
+  },
+  {
+    "value": "Write",
+    "valueThird": "Writes",
+    "type": "",
+    "subType": ""
+  }
+
 ]
