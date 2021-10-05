@@ -337,7 +337,6 @@
 		"value": "knowledge",
 		"type": "Noun",
 		"subType": "",
-		"pluralValue": "knowledges",
 		"article": true
 	},
 	{
@@ -523,10 +522,10 @@
 		"article": true
 	},
 	{
-		"value": "politics",
+		"value": "politic",
 		"type": "Noun",
 		"subType": "",
-		"pluralValue": "politicss",
+		"pluralValue": "politics",
 		"article": true
 	},
 	{
