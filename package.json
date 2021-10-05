@@ -5,9 +5,7 @@
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"local-start": ".\\node_modules\\.bin\\tsc index.ts && node .",
-		"start": "node index.js",
-		"postinstall": "tsc index.ts"
+		"start": "npx tsc && node dist/"
 	},
 	"engines": {
 		"node": "13.9.0"

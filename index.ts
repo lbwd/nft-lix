@@ -8,11 +8,13 @@ const RANDOM_RUN = 10;
 
 // Read layouts file
 let layouts: Layout[] = JSON.parse(
-	fs.readFileSync("./data/layouts.json").toString()
+	fs.readFileSync("./assets/data/layouts.json").toString()
 );
 
 // Read words file
-let words: Word[] = JSON.parse(fs.readFileSync("./data/words.json").toString());
+let words: Word[] = JSON.parse(
+	fs.readFileSync("./assets/data/words.json").toString()
+);
 
 // Random layout
 for (let i = 0; i < RANDOM_RUN; i++) {
