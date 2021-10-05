@@ -27,6 +27,12 @@
 		"article": true
 	},
 	{
+		"value": "Tokyo",
+		"type": "Noun",
+		"subType": "",
+		"article": false
+	},
+	{
 		"value": "actor",
 		"type": "Noun",
 		"subType": "",
@@ -667,7 +673,7 @@
 		"value": "woman",
 		"type": "Noun",
 		"subType": "",
-		"pluralValue": "womans",
+		"pluralValue": "women",
 		"article": true
 	},
 	{
