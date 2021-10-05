@@ -33,22 +33,22 @@
 	},
 	{
 		"value": "{0} in the {1}",
-		"types": ["Noun","Noun"]
+		"types": ["Noun", "Noun"]
 	},
 	{
-		"value": "{0} {1} {2}",                  
-		"types": ["Noun","Verb", "Noun"]
+		"value": "{0} {1} {2}",
+		"types": ["Noun", "Verb", "Noun"]
 	},
 	{
-		"value": "{0} {1} {2} {3}",                  
-		"types": ["Adjective","Noun", "Verb", "Noun"]
+		"value": "{0} {1} {2} {3}",
+		"types": ["Adjective", "Noun", "Verb", "Noun"]
 	},
 	{
-		"value": "{0}: {1} {2}",                  
-		"types": ["Noun","Verb", "Noun"]
+		"value": "{0}: {1} {2}",
+		"types": ["Noun", "Verb", "Noun"]
 	},
 	{
-		"value": "I am {0}",                  
+		"value": "I am {0}",
 		"types": ["Noun"]
 	}
 ]

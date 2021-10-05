@@ -19,1721 +19,1721 @@
 		"value": "volume",
 		"article": true
 	},
-  {
-    "value": "accident",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "accidents",
-    "article": true
-  },
-  {
-    "value": "actor",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "actors",
-    "article": true
-  },
-  {
-    "value": "agency",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "agencies",
-    "article": true
-  },
-  {
-    "value": "ambition",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "ambitions",
-    "article": true
-  },
-  {
-    "value": "appointment",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "appointments",
-    "article": true
-  },
-  {
-    "value": "argument",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "arguments",
-    "article": true
-  },
-  {
-    "value": "art",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "arts",
-    "article": true
-  },
-  {
-    "value": "atmosphere",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "atmospheres",
-    "article": true
-  },
-  {
-    "value": "birthday",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "birthday",
-    "article": true
-  },
-  {
-    "value": "bread",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "breads",
-    "article": true
-  },
-  {
-    "value": "breath",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "breaths",
-    "article": true
-  },
-  {
-    "value": "childhood",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "childhoods",
-    "article": true
-  },
-  {
-    "value": "city",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "cities",
-    "article": true
-  },
-  {
-    "value": "clothes",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "clothess",
-    "article": true
-  },
-  {
-    "value": "coffee",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "coffees",
-    "article": false
-  },
-  {
-    "value": "college",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "colleges",
-    "article": true
-  },
-  {
-    "value": "control",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "controls",
-    "article": true
-  },
-  {
-    "value": "criticism",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "criticisms",
-    "article": true
-  },
-  {
-    "value": "departure",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "departures",
-    "article": true
-  },
-  {
-    "value": "difference",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "differences",
-    "article": true
-  },
-  {
-    "value": "director",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "directors",
-    "article": true
-  },
-  {
-    "value": "disaster",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "disasters",
-    "article": true
-  },
-  {
-    "value": "ear",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "ears",
-    "article": true
-  },
-  {
-    "value": "editor",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "editors",
-    "article": true
-  },
-  {
-    "value": "election",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "elections",
-    "article": true
-  },
-  {
-    "value": "employer",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "employers",
-    "article": true
-  },
-  {
-    "value": "engine",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "engines",
-    "article": true
-  },
-  {
-    "value": "engineering",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "engineerings",
-    "article": true
-  },
-  {
-    "value": "estate",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "estates",
-    "article": true
-  },
-  {
-    "value": "examination",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "examinations",
-    "article": true
-  },
-  {
-    "value": "expression",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "expressions",
-    "article": true
-  },
-  {
-    "value": "extent",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "extents",
-    "article": true
-  },
-  {
-    "value": "family",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "family",
-    "article": true
-  },
-  {
-    "value": "fishing",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "fishings",
-    "article": true
-  },
-  {
-    "value": "girlfriend",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "girlfriends",
-    "article": true
-  },
-  {
-    "value": "goal",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "goals",
-    "article": true
-  },
-  {
-    "value": "guest",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "guests",
-    "article": true
-  },
-  {
-    "value": "heart",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "hearts",
-    "article": true
-  },
-  {
-    "value": "historian",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "historians",
-    "article": false
-  },
-  {
-    "value": "income",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "incomes",
-    "article": true
-  },
-  {
-    "value": "inspection",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "inspections",
-    "article": true
-  },
-  {
-    "value": "instance",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "instances",
-    "article": true
-  },
-  {
-    "value": "insurance",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "insurances",
-    "article": true
-  },
-  {
-    "value": "introduction",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "introductions",
-    "article": true
-  },
-  {
-    "value": "knowledge",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "knowledges",
-    "article": true
-  },
-  {
-    "value": "ladder",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "ladders",
-    "article": true
-  },
-  {
-    "value": "lady",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "ladies",
-    "article": true
-  },
-  {
-    "value": "leader",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "leaders",
-    "article": true
-  },
-  {
-    "value": "library",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "libraries",
-    "article": true
-  },
-  {
-    "value": "literature",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "literatures",
-    "article": true
-  },
-  {
-    "value": "magazine",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "magazines",
-    "article": true
-  },
-  {
-    "value": "maintenance",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "maintenances",
-    "article": true
-  },
-  {
-    "value": "mall",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "malls",
-    "article": true
-  },
-  {
-    "value": "management",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "managements",
-    "article": true
-  },
-  {
-    "value": "manufacturer",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "manufacturers",
-    "article": true
-  },
-  {
-    "value": "meaning",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "meanings",
-    "article": true
-  },
-  {
-    "value": "membership",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "memberships",
-    "article": true
-  },
-  {
-    "value": "message",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "messages",
-    "article": true
-  },
-  {
-    "value": "midnight",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "midnights",
-    "article": true
-  },
-  {
-    "value": "operation",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "operations",
-    "article": true
-  },
-  {
-    "value": "passenger",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "passengers",
-    "article": true
-  },
-  {
-    "value": "passion",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "passions",
-    "article": true
-  },
-  {
-    "value": "percentage",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "percentages",
-    "article": true
-  },
-  {
-    "value": "performance",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "performances",
-    "article": true
-  },
-  {
-    "value": "person",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "persons",
-    "article": true
-  },
-  {
-    "value": "personality",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "personalities",
-    "article": true
-  },
-  {
-    "value": "philosophy",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "philosophy",
-    "article": true
-  },
-  {
-    "value": "piano",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "pianos",
-    "article": true
-  },
-  {
-    "value": "pie",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "pies",
-    "article": true
-  },
-  {
-    "value": "pizza",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "pizzas",
-    "article": false
-  },
-  {
-    "value": "platform",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "platforms",
-    "article": true
-  },
-  {
-    "value": "politics",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "politicss",
-    "article": true
-  },
-  {
-    "value": "possession",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "possessions",
-    "article": true
-  },
-  {
-    "value": "president",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "presidents",
-    "article": true
-  },
-  {
-    "value": "problem",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "problems",
-    "article": true
-  },
-  {
-    "value": "procedure",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "procedures",
-    "article": true
-  },
-  {
-    "value": "promotion",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "promotions",
-    "article": true
-  },
-  {
-    "value": "property",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "properties",
-    "article": true
-  },
-  {
-    "value": "reception",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "receptions",
-    "article": true
-  },
-  {
-    "value": "republic",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "republics",
-    "article": true
-  },
-  {
-    "value": "resolution",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "resolutions",
-    "article": true
-  },
-  {
-    "value": "responsibility",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "responsibilities",
-    "article": true
-  },
-  {
-    "value": "scene",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "scenes",
-    "article": true
-  },
-  {
-    "value": "session",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "sessions",
-    "article": true
-  },
-  {
-    "value": "signature",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "signatures",
-    "article": true
-  },
-  {
-    "value": "student",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "students",
-    "article": true
-  },
-  {
-    "value": "surgery",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "surgery",
-    "article": true
-  },
-  {
-    "value": "teaching",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "teachings",
-    "article": true
-  },
-  {
-    "value": "tradition",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "traditions",
-    "article": true
-  },
-  {
-    "value": "unit",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "units",
-    "article": true
-  },
-  {
-    "value": "variation",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "variations",
-    "article": true
-  },
-  {
-    "value": "wife",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "wifes",
-    "article": true
-  },
-  {
-    "value": "woman",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "womans",
-    "article": true
-  },
-  {
-    "value": "world",
-    "type": "Noun",
-    "subType": "",
-    "pluralValue": "worlds",
-    "article": true
-  },
-  {
-    "value": "abolish",
-    "valueThird": "abolishes",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "access",
-    "valueThird": "accesss",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "adapt",
-    "valueThird": "adapts",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "assess",
-    "valueThird": "assesss",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "attract",
-    "valueThird": "attracts",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "balance",
-    "valueThird": "balances",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "become",
-    "valueThird": "becomes",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "borrow",
-    "valueThird": "borrows",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "build",
-    "valueThird": "builds",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "carve",
-    "valueThird": "carves",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "cast",
-    "valueThird": "casts",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "cater",
-    "valueThird": "caters",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "climb",
-    "valueThird": "climbs",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "command",
-    "valueThird": "commands",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "comment",
-    "valueThird": "comments",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "compel",
-    "valueThird": "compels",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "concede",
-    "valueThird": "concedes",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "connect",
-    "valueThird": "connects",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "contract",
-    "valueThird": "contracts",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "convey",
-    "valueThird": "conveys",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "cool",
-    "valueThird": "cools",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "copy",
-    "valueThird": "copies",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "count",
-    "valueThird": "counts",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "crack",
-    "valueThird": "cracks",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "criticise",
-    "valueThird": "criticises",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "damage",
-    "valueThird": "damages",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "defend",
-    "valueThird": "defends",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "delay",
-    "valueThird": "delays",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "derive",
-    "valueThird": "derives",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "differentiate",
-    "valueThird": "differentiates",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "dissolve",
-    "valueThird": "dissolves",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "dream",
-    "valueThird": "dreams",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "emphasize",
-    "valueThird": "emphasizes",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "escape",
-    "valueThird": "escapes",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "exist",
-    "valueThird": "exists",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "fine",
-    "valueThird": "fines",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "frown",
-    "valueThird": "frowns",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "gasp",
-    "valueThird": "gasps",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "gather",
-    "valueThird": "gathers",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "grin",
-    "valueThird": "grins",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "grow",
-    "valueThird": "grows",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "have",
-    "valueThird": "haves",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "import",
-    "valueThird": "imports",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "influence",
-    "valueThird": "influences",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "inform",
-    "valueThird": "informs",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "isolate",
-    "valueThird": "isolates",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "kill",
-    "valueThird": "kills",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "knit",
-    "valueThird": "knits",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "land",
-    "valueThird": "lands",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "lend",
-    "valueThird": "lends",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "lie",
-    "valueThird": "lies",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "match",
-    "valueThird": "matches",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "matter",
-    "valueThird": "matters",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "modify",
-    "valueThird": "modifies",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "monitor",
-    "valueThird": "monitors",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "oppose",
-    "valueThird": "opposes",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "organize",
-    "valueThird": "organizes",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "pack",
-    "valueThird": "packs",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "plant",
-    "valueThird": "plants",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "play",
-    "valueThird": "plays",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "plead",
-    "valueThird": "pleads",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "plunge",
-    "valueThird": "plunges",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "position",
-    "valueThird": "positions",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "possess",
-    "valueThird": "possesss",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "prove",
-    "valueThird": "proves",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "publish",
-    "valueThird": "publishes",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "put",
-    "valueThird": "puts",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "range",
-    "valueThird": "ranges",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "reduce",
-    "valueThird": "reduces",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "register",
-    "valueThird": "registers",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "reply",
-    "valueThird": "replys",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "research",
-    "valueThird": "researches",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "reserve",
-    "valueThird": "reserves",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "resume",
-    "valueThird": "resumes",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "schedule",
-    "valueThird": "schedules",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "see",
-    "valueThird": "sees",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "seek",
-    "valueThird": "seeks",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "sigh",
-    "valueThird": "sighes",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "sign",
-    "valueThird": "signs",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "specify",
-    "valueThird": "specifies",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "state",
-    "valueThird": "states",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "stroke",
-    "valueThird": "strokes",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "submit",
-    "valueThird": "submits",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "suck",
-    "valueThird": "sucks",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "suggest",
-    "valueThird": "suggests",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "supervise",
-    "valueThird": "supervises",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "tap",
-    "valueThird": "taps",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "touch",
-    "valueThird": "touches",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "trace",
-    "valueThird": "traces",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "transfer",
-    "valueThird": "transfers",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "translate",
-    "valueThird": "translates",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "waste",
-    "valueThird": "wastes",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "wish",
-    "valueThird": "wishes",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "write",
-    "valueThird": "writes",
-    "type": "Verb",
-    "subType": ""
-  },
-  {
-    "value": "abaft",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "abnormal",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "acceptable",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "afraid",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "ambitious",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "amused",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "ancient",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "anxious",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "apathetic",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "available",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "big",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "broad",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "cheap",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "clammy",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "colossal",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "combative",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "confused",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "coordinated",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "crazy",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "creepy",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "cultured",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "curly",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "curved",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "debonair",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "defeated",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "defiant",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "descriptive",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "deserted",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "detailed",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "determined",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "direful",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "doubtful",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "dreary",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "dull",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "entertaining",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "ethereal",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "fallacious",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "first",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "frantic",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "glistening",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "gratis",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "gray",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "groovy",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "gullible",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "harmonious",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "heavy",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "hollow",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "honorable",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "hurt",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "immense",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "jumpy",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "kaput",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "knotty",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "labored",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "left",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "level",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "lewd",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "luxuriant",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "massive",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "merciful",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "naughty",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "near",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "neighborly",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "nine",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "nondescript",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "numberless",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "ossified",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "panoramic",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "perpetual",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "poised",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "pumped",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "purring",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "ragged",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "rebel",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "recent",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "remarkable",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "reminiscent",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "scary",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "shaky",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "shiny",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "short",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "similar",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "smooth",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "somber",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "squeamish",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "staking",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "strong",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "tacky",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "ten",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "tense",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "tired",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "truculent",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "unadvised",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "unhealthy",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "unlikely",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "uttermost",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "wrong",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "zealous",
-    "type": "Adjective",
-    "subType": "Affix"
-  },
-  {
-    "value": "zippy",
-    "type": "Adjective",
-    "subType": "Affix"
-  }
+	{
+		"value": "accident",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "accidents",
+		"article": true
+	},
+	{
+		"value": "actor",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "actors",
+		"article": true
+	},
+	{
+		"value": "agency",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "agencies",
+		"article": true
+	},
+	{
+		"value": "ambition",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "ambitions",
+		"article": true
+	},
+	{
+		"value": "appointment",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "appointments",
+		"article": true
+	},
+	{
+		"value": "argument",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "arguments",
+		"article": true
+	},
+	{
+		"value": "art",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "arts",
+		"article": true
+	},
+	{
+		"value": "atmosphere",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "atmospheres",
+		"article": true
+	},
+	{
+		"value": "birthday",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "birthday",
+		"article": true
+	},
+	{
+		"value": "bread",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "breads",
+		"article": true
+	},
+	{
+		"value": "breath",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "breaths",
+		"article": true
+	},
+	{
+		"value": "childhood",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "childhoods",
+		"article": true
+	},
+	{
+		"value": "city",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "cities",
+		"article": true
+	},
+	{
+		"value": "clothes",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "clothess",
+		"article": true
+	},
+	{
+		"value": "coffee",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "coffees",
+		"article": false
+	},
+	{
+		"value": "college",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "colleges",
+		"article": true
+	},
+	{
+		"value": "control",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "controls",
+		"article": true
+	},
+	{
+		"value": "criticism",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "criticisms",
+		"article": true
+	},
+	{
+		"value": "departure",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "departures",
+		"article": true
+	},
+	{
+		"value": "difference",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "differences",
+		"article": true
+	},
+	{
+		"value": "director",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "directors",
+		"article": true
+	},
+	{
+		"value": "disaster",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "disasters",
+		"article": true
+	},
+	{
+		"value": "ear",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "ears",
+		"article": true
+	},
+	{
+		"value": "editor",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "editors",
+		"article": true
+	},
+	{
+		"value": "election",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "elections",
+		"article": true
+	},
+	{
+		"value": "employer",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "employers",
+		"article": true
+	},
+	{
+		"value": "engine",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "engines",
+		"article": true
+	},
+	{
+		"value": "engineering",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "engineerings",
+		"article": true
+	},
+	{
+		"value": "estate",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "estates",
+		"article": true
+	},
+	{
+		"value": "examination",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "examinations",
+		"article": true
+	},
+	{
+		"value": "expression",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "expressions",
+		"article": true
+	},
+	{
+		"value": "extent",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "extents",
+		"article": true
+	},
+	{
+		"value": "family",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "family",
+		"article": true
+	},
+	{
+		"value": "fishing",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "fishings",
+		"article": true
+	},
+	{
+		"value": "girlfriend",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "girlfriends",
+		"article": true
+	},
+	{
+		"value": "goal",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "goals",
+		"article": true
+	},
+	{
+		"value": "guest",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "guests",
+		"article": true
+	},
+	{
+		"value": "heart",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "hearts",
+		"article": true
+	},
+	{
+		"value": "historian",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "historians",
+		"article": false
+	},
+	{
+		"value": "income",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "incomes",
+		"article": true
+	},
+	{
+		"value": "inspection",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "inspections",
+		"article": true
+	},
+	{
+		"value": "instance",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "instances",
+		"article": true
+	},
+	{
+		"value": "insurance",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "insurances",
+		"article": true
+	},
+	{
+		"value": "introduction",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "introductions",
+		"article": true
+	},
+	{
+		"value": "knowledge",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "knowledges",
+		"article": true
+	},
+	{
+		"value": "ladder",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "ladders",
+		"article": true
+	},
+	{
+		"value": "lady",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "ladies",
+		"article": true
+	},
+	{
+		"value": "leader",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "leaders",
+		"article": true
+	},
+	{
+		"value": "library",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "libraries",
+		"article": true
+	},
+	{
+		"value": "literature",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "literatures",
+		"article": true
+	},
+	{
+		"value": "magazine",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "magazines",
+		"article": true
+	},
+	{
+		"value": "maintenance",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "maintenances",
+		"article": true
+	},
+	{
+		"value": "mall",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "malls",
+		"article": true
+	},
+	{
+		"value": "management",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "managements",
+		"article": true
+	},
+	{
+		"value": "manufacturer",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "manufacturers",
+		"article": true
+	},
+	{
+		"value": "meaning",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "meanings",
+		"article": true
+	},
+	{
+		"value": "membership",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "memberships",
+		"article": true
+	},
+	{
+		"value": "message",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "messages",
+		"article": true
+	},
+	{
+		"value": "midnight",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "midnights",
+		"article": true
+	},
+	{
+		"value": "operation",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "operations",
+		"article": true
+	},
+	{
+		"value": "passenger",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "passengers",
+		"article": true
+	},
+	{
+		"value": "passion",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "passions",
+		"article": true
+	},
+	{
+		"value": "percentage",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "percentages",
+		"article": true
+	},
+	{
+		"value": "performance",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "performances",
+		"article": true
+	},
+	{
+		"value": "person",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "persons",
+		"article": true
+	},
+	{
+		"value": "personality",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "personalities",
+		"article": true
+	},
+	{
+		"value": "philosophy",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "philosophy",
+		"article": true
+	},
+	{
+		"value": "piano",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "pianos",
+		"article": true
+	},
+	{
+		"value": "pie",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "pies",
+		"article": true
+	},
+	{
+		"value": "pizza",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "pizzas",
+		"article": false
+	},
+	{
+		"value": "platform",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "platforms",
+		"article": true
+	},
+	{
+		"value": "politics",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "politicss",
+		"article": true
+	},
+	{
+		"value": "possession",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "possessions",
+		"article": true
+	},
+	{
+		"value": "president",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "presidents",
+		"article": true
+	},
+	{
+		"value": "problem",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "problems",
+		"article": true
+	},
+	{
+		"value": "procedure",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "procedures",
+		"article": true
+	},
+	{
+		"value": "promotion",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "promotions",
+		"article": true
+	},
+	{
+		"value": "property",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "properties",
+		"article": true
+	},
+	{
+		"value": "reception",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "receptions",
+		"article": true
+	},
+	{
+		"value": "republic",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "republics",
+		"article": true
+	},
+	{
+		"value": "resolution",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "resolutions",
+		"article": true
+	},
+	{
+		"value": "responsibility",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "responsibilities",
+		"article": true
+	},
+	{
+		"value": "scene",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "scenes",
+		"article": true
+	},
+	{
+		"value": "session",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "sessions",
+		"article": true
+	},
+	{
+		"value": "signature",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "signatures",
+		"article": true
+	},
+	{
+		"value": "student",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "students",
+		"article": true
+	},
+	{
+		"value": "surgery",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "surgery",
+		"article": true
+	},
+	{
+		"value": "teaching",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "teachings",
+		"article": true
+	},
+	{
+		"value": "tradition",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "traditions",
+		"article": true
+	},
+	{
+		"value": "unit",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "units",
+		"article": true
+	},
+	{
+		"value": "variation",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "variations",
+		"article": true
+	},
+	{
+		"value": "wife",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "wifes",
+		"article": true
+	},
+	{
+		"value": "woman",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "womans",
+		"article": true
+	},
+	{
+		"value": "world",
+		"type": "Noun",
+		"subType": "",
+		"pluralValue": "worlds",
+		"article": true
+	},
+	{
+		"value": "abolish",
+		"valueThird": "abolishes",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "access",
+		"valueThird": "accesss",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "adapt",
+		"valueThird": "adapts",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "assess",
+		"valueThird": "assesss",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "attract",
+		"valueThird": "attracts",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "balance",
+		"valueThird": "balances",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "become",
+		"valueThird": "becomes",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "borrow",
+		"valueThird": "borrows",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "build",
+		"valueThird": "builds",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "carve",
+		"valueThird": "carves",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "cast",
+		"valueThird": "casts",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "cater",
+		"valueThird": "caters",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "climb",
+		"valueThird": "climbs",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "command",
+		"valueThird": "commands",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "comment",
+		"valueThird": "comments",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "compel",
+		"valueThird": "compels",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "concede",
+		"valueThird": "concedes",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "connect",
+		"valueThird": "connects",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "contract",
+		"valueThird": "contracts",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "convey",
+		"valueThird": "conveys",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "cool",
+		"valueThird": "cools",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "copy",
+		"valueThird": "copies",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "count",
+		"valueThird": "counts",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "crack",
+		"valueThird": "cracks",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "criticise",
+		"valueThird": "criticises",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "damage",
+		"valueThird": "damages",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "defend",
+		"valueThird": "defends",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "delay",
+		"valueThird": "delays",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "derive",
+		"valueThird": "derives",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "differentiate",
+		"valueThird": "differentiates",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "dissolve",
+		"valueThird": "dissolves",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "dream",
+		"valueThird": "dreams",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "emphasize",
+		"valueThird": "emphasizes",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "escape",
+		"valueThird": "escapes",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "exist",
+		"valueThird": "exists",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "fine",
+		"valueThird": "fines",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "frown",
+		"valueThird": "frowns",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "gasp",
+		"valueThird": "gasps",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "gather",
+		"valueThird": "gathers",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "grin",
+		"valueThird": "grins",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "grow",
+		"valueThird": "grows",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "have",
+		"valueThird": "haves",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "import",
+		"valueThird": "imports",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "influence",
+		"valueThird": "influences",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "inform",
+		"valueThird": "informs",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "isolate",
+		"valueThird": "isolates",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "kill",
+		"valueThird": "kills",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "knit",
+		"valueThird": "knits",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "land",
+		"valueThird": "lands",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "lend",
+		"valueThird": "lends",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "lie",
+		"valueThird": "lies",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "match",
+		"valueThird": "matches",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "matter",
+		"valueThird": "matters",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "modify",
+		"valueThird": "modifies",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "monitor",
+		"valueThird": "monitors",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "oppose",
+		"valueThird": "opposes",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "organize",
+		"valueThird": "organizes",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "pack",
+		"valueThird": "packs",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "plant",
+		"valueThird": "plants",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "play",
+		"valueThird": "plays",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "plead",
+		"valueThird": "pleads",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "plunge",
+		"valueThird": "plunges",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "position",
+		"valueThird": "positions",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "possess",
+		"valueThird": "possesss",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "prove",
+		"valueThird": "proves",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "publish",
+		"valueThird": "publishes",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "put",
+		"valueThird": "puts",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "range",
+		"valueThird": "ranges",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "reduce",
+		"valueThird": "reduces",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "register",
+		"valueThird": "registers",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "reply",
+		"valueThird": "replys",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "research",
+		"valueThird": "researches",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "reserve",
+		"valueThird": "reserves",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "resume",
+		"valueThird": "resumes",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "schedule",
+		"valueThird": "schedules",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "see",
+		"valueThird": "sees",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "seek",
+		"valueThird": "seeks",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "sigh",
+		"valueThird": "sighes",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "sign",
+		"valueThird": "signs",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "specify",
+		"valueThird": "specifies",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "state",
+		"valueThird": "states",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "stroke",
+		"valueThird": "strokes",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "submit",
+		"valueThird": "submits",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "suck",
+		"valueThird": "sucks",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "suggest",
+		"valueThird": "suggests",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "supervise",
+		"valueThird": "supervises",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "tap",
+		"valueThird": "taps",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "touch",
+		"valueThird": "touches",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "trace",
+		"valueThird": "traces",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "transfer",
+		"valueThird": "transfers",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "translate",
+		"valueThird": "translates",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "waste",
+		"valueThird": "wastes",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "wish",
+		"valueThird": "wishes",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "write",
+		"valueThird": "writes",
+		"type": "Verb",
+		"subType": ""
+	},
+	{
+		"value": "abaft",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "abnormal",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "acceptable",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "afraid",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "ambitious",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "amused",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "ancient",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "anxious",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "apathetic",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "available",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "big",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "broad",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "cheap",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "clammy",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "colossal",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "combative",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "confused",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "coordinated",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "crazy",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "creepy",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "cultured",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "curly",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "curved",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "debonair",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "defeated",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "defiant",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "descriptive",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "deserted",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "detailed",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "determined",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "direful",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "doubtful",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "dreary",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "dull",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "entertaining",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "ethereal",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "fallacious",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "first",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "frantic",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "glistening",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "gratis",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "gray",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "groovy",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "gullible",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "harmonious",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "heavy",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "hollow",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "honorable",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "hurt",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "immense",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "jumpy",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "kaput",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "knotty",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "labored",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "left",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "level",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "lewd",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "luxuriant",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "massive",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "merciful",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "naughty",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "near",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "neighborly",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "nine",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "nondescript",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "numberless",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "ossified",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "panoramic",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "perpetual",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "poised",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "pumped",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "purring",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "ragged",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "rebel",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "recent",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "remarkable",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "reminiscent",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "scary",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "shaky",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "shiny",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "short",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "similar",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "smooth",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "somber",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "squeamish",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "staking",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "strong",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "tacky",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "ten",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "tense",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "tired",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "truculent",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "unadvised",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "unhealthy",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "unlikely",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "uttermost",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "wrong",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "zealous",
+		"type": "Adjective",
+		"subType": "Affix"
+	},
+	{
+		"value": "zippy",
+		"type": "Adjective",
+		"subType": "Affix"
+	}
 ]
