@@ -1,5 +1,12 @@
 import * as fs from "fs";
-import { Layout, Title, TitleWord, Word, WordProperties } from "./types";
+import {
+	Layout,
+	Title,
+	TitleWord,
+	Word,
+	WordProperties,
+	WordType,
+} from "./types";
 
 // ************************************************
 // ********************  Main  ********************
@@ -12,9 +19,16 @@ let layouts: Layout[] = JSON.parse(
 );
 
 // Read words file
-let words: Word[] = JSON.parse(
+let readWords: Word[] = JSON.parse(
 	fs.readFileSync("./assets/data/words.json").toString()
 );
+
+// Build words arrays
+// words: Word[][]
+let words: any = [];
+Object.keys(WordType).forEach((type) => {
+	words[type] = readWords.filter((word) => word.type === type);
+});
 
 // Random layout
 for (let i = 0; i < RANDOM_RUN; i++) {
@@ -25,7 +39,7 @@ for (let i = 0; i < RANDOM_RUN; i++) {
 		words: [],
 	};
 	layout.types.forEach((type) => {
-		let ofTypeWords: Word[] = words.filter((word) => word.type === type);
+		let ofTypeWords: Word[] = words[type];
 		let randomedWord: Word =
 			ofTypeWords[Math.floor(Math.random() * ofTypeWords.length)];
 		let wordProperties: WordProperties = {
