@@ -28,6 +28,10 @@
 		"types": ["Noun"]
 	},
 	{
+		"value": "Over {0}",
+		"types": ["Noun"]
+	},
+	{
 		"value": "{0}",
 		"types": ["Noun"]
 	},
@@ -50,5 +54,13 @@
 	{
 		"value": "I am {0}",
 		"types": ["Noun"]
+	},
+	{
+		"value": "They are {0}",
+		"types": ["Adjective"]
+	},
+	{
+		"value": "{0} {1}",
+		"types": ["Noun","Adjective"]
 	}
 ]
