@@ -9,6 +9,50 @@
 	{
 		"type": "Noun",
 		"subType": "",
+		"value": "Blasto",
+		"article": false
+	},
+	{
+		"type": "Noun",
+		"subType": "",
+		"value": "Crotalo",
+		"article": false
+	},
+	{
+		"type": "Noun",
+		"subType": "",
+		"value": "Hiroshima",
+		"article": false
+	},
+	{
+		"type": "Noun",
+		"subType": "",
+		"value": "Telebbarco",
+		"article": false
+	},
+	{
+		"type": "",
+		"subType": "",
+		"value": "Boomer",
+		"pluralValue": "Boomers",
+		"article": true
+	},
+	{
+		"type": "",
+		"subType": "",
+		"value": "Generation",
+		"pluralValue": "Generations",
+		"article": false
+	},
+	{
+		"type": "",
+		"subType": "",
+		"value": "Telebbarco",
+		"article": false
+	},
+	{
+		"type": "Noun",
+		"subType": "",
 		"value": "wave",
 		"pluralValue": "waves",
 		"article": true
