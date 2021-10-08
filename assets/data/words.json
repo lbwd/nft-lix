@@ -9,6 +9,20 @@
 	{
 		"type": "Noun",
 		"subType": "",
+		"value": "game",
+		"pluralValue": "games",
+		"article": true
+	},
+	{
+		"type": "Noun",
+		"subType": "",
+		"value": "squid",
+		"pluralValue": "squids",
+		"article": true
+	},
+	{
+		"type": "Noun",
+		"subType": "",
 		"value": "Blasto",
 		"article": false
 	},
@@ -171,7 +185,6 @@
 		"value": "clothes",
 		"type": "Noun",
 		"subType": "",
-		"pluralValue": "clothess",
 		"article": true
 	},
 	{

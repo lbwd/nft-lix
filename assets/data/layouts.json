@@ -62,5 +62,9 @@
 	{
 		"value": "{0} {1}",
 		"types": ["Noun","Adjective"]
+	},
+	{
+		"value": "{0} {1}",
+		"types": ["Adjective","Noun"]
 	}
 ]
