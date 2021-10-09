@@ -1,10 +1,360 @@
 [
+{
+	"type": "Noun",
+	"subType": "",
+	"value": "employer",
+	"pluralValue": "employers",
+	"article": true
+},
+{
+	"type": "Noun",
+	"subType": "",
+	"value": "dirt",
+	"pluralValue": "dirts",
+	"article": true
+	},
 	{
-		"type": "Noun",
-		"subType": "",
-		"value": "employer",
-		"pluralValue": "employers",
-		"article": true
+	"type": "Noun",
+	"subType": "",
+	"value": "camera",
+	"pluralValue": "cameras",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "failure",
+	"pluralValue": "failures",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "marriage",
+	"pluralValue": "marriages",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "inspection",
+	"pluralValue": "inspections",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "atmosphere",
+	"pluralValue": "atmospheres",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "passenger",
+	"pluralValue": "passengers",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "product",
+	"pluralValue": "products",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "collection",
+	"pluralValue": "collections",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "leader",
+	"pluralValue": "leaders",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "perspective",
+	"pluralValue": "perspectives",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "investment",
+	"pluralValue": "investments",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "reading",
+	"pluralValue": "readings",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "advice",
+	"pluralValue": "advices",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "ambition",
+	"pluralValue": "ambitions",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "energy",
+	"pluralValue": "energies",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "instance",
+	"pluralValue": "instances",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "girlfriend",
+	"pluralValue": "girlfriends",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "engineering",
+	"pluralValue": "engineerings",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "hotel",
+	"pluralValue": "hotels",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "tooth",
+	"pluralValue": "tooths",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "studio",
+	"pluralValue": "studios",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "alcohol",
+	"pluralValue": "alcohols",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "mall",
+	"pluralValue": "malls",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "professor",
+	"pluralValue": "professors",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "thing",
+	"pluralValue": "things",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "combination",
+	"pluralValue": "combinations",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "independence",
+	"pluralValue": "independences",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "coffee",
+	"pluralValue": "coffees",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "promotion",
+	"pluralValue": "promotions",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "chapter",
+	"pluralValue": "chapters",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "dealer",
+	"pluralValue": "dealers",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "driver",
+	"pluralValue": "drivers",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "tension",
+	"pluralValue": "tensions",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "reputation",
+	"pluralValue": "reputations",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "session",
+	"pluralValue": "sessions",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "drama",
+	"pluralValue": "dramas",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "chemistry",
+	"pluralValue": "chemistry",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "bedroom",
+	"pluralValue": "bedrooms",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "newspaper",
+	"pluralValue": "newspapers",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "association",
+	"pluralValue": "associations",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "army",
+	"pluralValue": "armies",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "anxiety",
+	"pluralValue": "anxiety",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "bathroom",
+	"pluralValue": "bathrooms",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "employee",
+	"pluralValue": "employees",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "instruction",
+	"pluralValue": "instructions",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "community",
+	"pluralValue": "communities",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "stranger",
+	"pluralValue": "strangers",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "basis",
+	"pluralValue": "basis",
+	"article": true
+	},
+	{
+	"type": "Noun",
+	"subType": "",
+	"value": "opportunity",
+	"pluralValue": "opportunities",
+	"article": true
 	},
 	{
 		"type": "Noun",
