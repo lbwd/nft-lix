@@ -99,7 +99,15 @@ function compileTitle(title: Title) {
 		}
 
 		// Plural
-		if (titleWord.properties?.plural && titleWord.word.pluralValue) {
+		if (
+			layoutProps &&
+			layoutProps[parseInt(index)] &&
+			layoutProps[parseInt(index)].plural !== undefined
+		) {
+			if (layoutProps[parseInt(index)].plural && titleWord.word.pluralValue) {
+				return retVal + titleWord.word.pluralValue;
+			}
+		} else if (titleWord.properties?.plural && titleWord.word.pluralValue) {
 			return retVal + titleWord.word.pluralValue;
 		}
 

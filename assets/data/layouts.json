@@ -19,7 +19,7 @@
 	{
 		"value": "{0} in {1}",
 		"types": ["Noun", "Noun"],
-		"proprties": [
+		"properties": [
 			null,
 			{
 				"article": true
@@ -32,7 +32,15 @@
 	},
 	{
 		"value": "{0} {1} {2} {3}",
-		"types": ["Adjective", "Noun", "Verb", "Noun"]
+		"types": ["Adjective", "Noun", "Verb", "Noun"],
+		"properties": [
+			null,
+			{
+				"article": false
+			},
+			null,
+			null
+		]
 	},
 	{
 		"value": "{0}: {1} {2}",
@@ -41,7 +49,7 @@
 	{
 		"value": "I am {0}",
 		"types": ["Noun"],
-		"proprties": [
+		"properties": [
 			{
 				"plural": false
 			}
@@ -57,6 +65,12 @@
 	},
 	{
 		"value": "{0} {1}",
-		"types": ["Adjective", "Noun"]
+		"types": ["Adjective", "Noun"],
+		"properties": [
+			null,
+			{
+				"article": false
+			}
+		]
 	}
 ]
