@@ -36,6 +36,7 @@ export enum WordType {
 	Verb = "Verb",
 	Adjective = "Adjective",
 	FromArray = "FromArray",
+	People = "People",
 }
 
 export enum WordSubType {
