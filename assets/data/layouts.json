@@ -17,8 +17,14 @@
 		"types": ["Noun"]
 	},
 	{
-		"value": "{0} in the {1}",
-		"types": ["Noun", "Noun"]
+		"value": "{0} in {1}",
+		"types": ["Noun", "Noun"],
+		"proprties": [
+			null,
+			{
+				"article": true
+			}
+		]
 	},
 	{
 		"value": "{0} {1} {2}",
@@ -34,7 +40,12 @@
 	},
 	{
 		"value": "I am {0}",
-		"types": ["Noun"]
+		"types": ["Noun"],
+		"proprties": [
+			{
+				"plural": false
+			}
+		]
 	},
 	{
 		"value": "They are {0}",

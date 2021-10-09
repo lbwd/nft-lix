@@ -82,13 +82,28 @@ function compileTitle(title: Title) {
 		let index = match.substring(1, 2);
 		let retVal = "";
 		let titleWord = title.words[parseInt(index)];
-		if (titleWord.properties?.article && titleWord.word.article) {
+
+		// Properties
+		// Article
+		let layoutProps = title.layout.properties;
+		if (
+			layoutProps &&
+			layoutProps[parseInt(index)] &&
+			layoutProps[parseInt(index)].article !== undefined
+		) {
+			if (layoutProps[parseInt(index)].article && titleWord.word.article) {
+				retVal = "the ";
+			}
+		} else if (titleWord.properties?.article && titleWord.word.article) {
 			retVal = "the ";
 		}
+
+		// Plural
 		if (titleWord.properties?.plural && titleWord.word.pluralValue) {
 			return retVal + titleWord.word.pluralValue;
 		}
 
+		// FromArray compile
 		if (
 			titleWord.word.type === WordType.FromArray &&
 			titleWord.word.randomFrom
