@@ -150,7 +150,7 @@
 	"type": "Noun",
 	"subType": "",
 	"value": "tooth",
-	"pluralValue": "tooths",
+	"pluralValue": "teeth",
 	"article": true
 	},
 	{
@@ -2158,6 +2158,6 @@
 		"value": "",
 		"type": "FromArray",
 		"subType": "Preposition",
-		"randomFrom": ["VS", "from", "behind", "under", "after", "before", "inside"]
+		"randomFrom": ["VS", "from", "behind", "under", "after", "before", "inside", "about","across","against","between","among","unlike","below"]
 	}
 ]
