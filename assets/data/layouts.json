@@ -1,27 +1,8 @@
 [
 	{
-		"value": "{0} from {1}",
-		"types": ["Noun", "Noun"]
-	},
-	{
-		"value": "{0} behind {1}",
-		"types": ["Noun", "Noun"]
-	},
-	{
-		"value": "{0} under {1}",
-		"types": ["Noun", "Noun"]
-	},
-	{
-		"value": "{0} after {1}",
-		"types": ["Noun", "Noun"]
-	},
-	{
-		"value": "{0} before {1}",
-		"types": ["Noun", "Noun"]
-	},
-	{
-		"value": "{0} inside {1}",
-		"types": ["Noun", "Noun"]
+		"value": "{0} {1} {2}",
+		"types": ["Noun", "FromArray", "Noun"],
+		"subTypes": [null, "Preposition", null]
 	},
 	{
 		"value": "About {0}",
@@ -61,10 +42,10 @@
 	},
 	{
 		"value": "{0} {1}",
-		"types": ["Noun","Adjective"]
+		"types": ["Noun", "Adjective"]
 	},
 	{
 		"value": "{0} {1}",
-		"types": ["Adjective","Noun"]
+		"types": ["Adjective", "Noun"]
 	}
 ]

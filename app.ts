@@ -1,6 +1,6 @@
 import express from "express";
-import { main } from "./functions";
-import { Title } from "./types";
+import { main } from "./src/functions";
+import { Title } from "./src/types";
 
 const app = express();
 const port = process.env.PORT || 3000;

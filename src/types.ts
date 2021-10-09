@@ -2,6 +2,8 @@
 export type Layout = {
 	value: string;
 	types: WordType[];
+	subtypes?: WordSubType[];
+	properties?: WordProperties[];
 };
 
 export type Title = {
@@ -12,7 +14,7 @@ export type Title = {
 
 export type Word = {
 	type: WordType;
-	subType?: string;
+	subType?: WordSubType;
 	value: string;
 	pluralValue?: string;
 	randomFrom?: string[];
@@ -34,4 +36,10 @@ export enum WordType {
 	Verb = "Verb",
 	Adjective = "Adjective",
 	FromArray = "FromArray",
+}
+
+export enum WordSubType {
+	Affix = "Affix",
+	Suffix = "Suffix",
+	Preposition = "Preposition",
 }

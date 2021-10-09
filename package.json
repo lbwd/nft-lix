@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"start": "npx tsc && node dist/",
+		"start": "npx tsc && node dist/src/",
 		"serve": "npx tsc && node dist/app.js",
 		"postinstall": "tsc",
 		"heroku-serve": "node dist/app.js"

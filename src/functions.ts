@@ -5,6 +5,7 @@ import {
 	TitleWord,
 	Word,
 	WordProperties,
+	WordSubType,
 	WordType,
 } from "./types";
 
@@ -40,8 +41,21 @@ export function main(): Title[] {
 		};
 		layout.types.forEach((type) => {
 			let ofTypeWords: Word[] = words[type];
-			let randomedWord: Word =
-				ofTypeWords[Math.floor(Math.random() * ofTypeWords.length)];
+			let randomedWord: Word;
+
+			if (layout.subtypes) {
+				let subType: WordSubType = layout.subtypes[layout.types.indexOf(type)];
+				let ofSubTypeWords: Word[] = ofTypeWords.filter(
+					(word) => word.subType === subType
+				);
+
+				randomedWord =
+					ofSubTypeWords[Math.floor(Math.random() * ofTypeWords.length)];
+			} else {
+				randomedWord =
+					ofTypeWords[Math.floor(Math.random() * ofTypeWords.length)];
+			}
+
 			let wordProperties: WordProperties = {
 				article: Math.random() < 0.5,
 				plural: Math.random() < 0.5,
@@ -74,6 +88,17 @@ function compileTitle(title: Title) {
 		if (titleWord.properties?.plural && titleWord.word.pluralValue) {
 			return retVal + titleWord.word.pluralValue;
 		}
+
+		if (
+			titleWord.word.type === WordType.FromArray &&
+			titleWord.word.randomFrom
+		) {
+			titleWord.word.value =
+				titleWord.word.randomFrom[
+					Math.floor(Math.random() * titleWord.word.randomFrom.length)
+				];
+		}
+
 		return retVal + titleWord.word.value;
 	});
 
