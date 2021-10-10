@@ -10,6 +10,9 @@ export type Title = {
 	layout: Layout;
 	words: TitleWord[];
 	value?: string;
+	directedBy?: string;
+	cast?: string[];
+	prizes?: string[];
 };
 
 export type Word = {
@@ -38,6 +41,7 @@ export enum WordType {
 	Adjective = "Adjective",
 	FromArray = "FromArray",
 	People = "People",
+	Prize = "Prize",
 }
 
 export enum WordSubType {

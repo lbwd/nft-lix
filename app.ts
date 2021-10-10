@@ -15,7 +15,8 @@ app.get("/", (req, res) => {
 	let retVal: String = "";
 
 	results.forEach((title) => {
-		retVal += title.value + "<br />";
+		retVal +=
+			"<b>" + title.value + "</b><br />" + title.directedBy + "<br /><br />";
 	});
 
 	res.status(200).send(retVal);

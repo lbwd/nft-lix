@@ -23,6 +23,14 @@ export function main(): Title[] {
 		fs.readFileSync("./assets/data/words.json").toString()
 	);
 
+	let peoples: Word[] = JSON.parse(
+		fs.readFileSync("./assets/data/peoples.json").toString()
+	);
+
+	let prizes: Word[] = JSON.parse(
+		fs.readFileSync("./assets/data/prizes.json").toString()
+	);
+
 	// Build words arrays
 	// words: Word[][]
 	let words: any = [];
@@ -39,6 +47,8 @@ export function main(): Title[] {
 			layout: layout,
 			words: [],
 		};
+
+		// Words
 		layout.types.forEach((type) => {
 			let ofTypeWords: Word[] = words[type];
 			let randomedWord: Word;
@@ -68,6 +78,18 @@ export function main(): Title[] {
 
 			title.words.push(titleWord);
 		});
+
+		// Cast and prizes
+		// Director
+		let director = peoples[Math.floor(Math.random() * peoples.length)];
+		title.directedBy = "Directed by " + director.value;
+		if (Math.random() <= 0.05) {
+			// FIXME possible duplicates
+			let secondDirector = peoples[Math.floor(Math.random() * peoples.length)];
+			title.directedBy += " and " + secondDirector.value;
+		}
+
+		// Cast
 
 		retVals.push(compileTitle(title));
 	}
