@@ -88,11 +88,12 @@ export function main(): Title[] {
 		});
 
 		// Cast and prizes
+		// FIXME possible duplicates
+
 		// Director
 		let director: Word = peoples[Math.floor(Math.random() * peoples.length)];
 		title.directedBy = "Directed by " + director.value;
 		if (Math.random() <= RARITY_SECOND_DIRECTOR) {
-			// FIXME possible duplicates
 			let secondDirector = peoples[Math.floor(Math.random() * peoples.length)];
 			title.directedBy += " and " + secondDirector.value;
 		}
@@ -102,19 +103,16 @@ export function main(): Title[] {
 		let castFirst: Word = peoples[Math.floor(Math.random() * peoples.length)];
 		cast.push(castFirst);
 		if (Math.random() <= RARITY_SECOND_CAST) {
-			let castFirst: Word = peoples[Math.floor(Math.random() * peoples.length)];
+			castFirst = peoples[Math.floor(Math.random() * peoples.length)];
 			cast.push(castFirst);
 			if (Math.random() <= RARITY_THIRD_CAST) {
-				let castFirst: Word =
-					peoples[Math.floor(Math.random() * peoples.length)];
+				castFirst = peoples[Math.floor(Math.random() * peoples.length)];
 				cast.push(castFirst);
 				if (Math.random() <= RARITY_FORTH_CAST) {
-					let castFirst: Word =
-						peoples[Math.floor(Math.random() * peoples.length)];
+					castFirst = peoples[Math.floor(Math.random() * peoples.length)];
 					cast.push(castFirst);
 					if (Math.random() <= RARITY_FIFTH_CAST) {
-						let castFirst: Word =
-							peoples[Math.floor(Math.random() * peoples.length)];
+						castFirst = peoples[Math.floor(Math.random() * peoples.length)];
 						cast.push(castFirst);
 					}
 				}
@@ -129,10 +127,10 @@ export function main(): Title[] {
 			let prize: Word = prizes[Math.floor(Math.random() * prizes.length)];
 			titlePrizes.push(prize);
 			if (Math.random() <= RARITY_SECOND_PRIZE) {
-				let prize: Word = prizes[Math.floor(Math.random() * prizes.length)];
+				prize = prizes[Math.floor(Math.random() * prizes.length)];
 				titlePrizes.push(prize);
 				if (Math.random() <= RARITY_THIRD_PRIZE) {
-					let prize: Word = prizes[Math.floor(Math.random() * prizes.length)];
+					prize = prizes[Math.floor(Math.random() * prizes.length)];
 					titlePrizes.push(prize);
 				}
 			}

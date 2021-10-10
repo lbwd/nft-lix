@@ -13,6 +13,7 @@ export type Title = {
 	directedBy?: string;
 	cast?: string[];
 	prizes?: string[];
+	poster?: MoviePoster;
 };
 
 export type Word = {
@@ -34,6 +35,26 @@ export type WordProperties = {
 	article?: boolean;
 	plural?: boolean;
 };
+
+export type MoviePoster = {
+	images?: MoviePosterImage[];
+	// Bitmap
+	value: string;
+};
+
+export type MoviePosterImage = {
+	image: Image;
+	props?: ImageProperties;
+};
+
+export type Image = {
+	url: string;
+	category: Category;
+	contexts: Context[];
+	position?: ImagePosition;
+};
+
+export type ImageProperties = {};
 
 export enum WordType {
 	Noun = "Noun",
@@ -61,8 +82,21 @@ export enum Context {
 }
 
 export enum Category {
-	Border = "Border",
-	Object = "Object",
 	Wallpaper = "Wallpaper",
+	Object = "Object",
+	Mask = "Mask",
+	Border = "Border",
 	Decoration = "Decoration",
+}
+
+export enum ImagePosition {
+	Full = "Full",
+	Bottom = "Bottom",
+	Top = "Top",
+	Left = "Left",
+	Right = "Right",
+	BottomLeft = "BottomLeft",
+	BottomRight = "BottomRight",
+	TopLeft = "TopLeft",
+	TopRight = "TopRight",
 }
