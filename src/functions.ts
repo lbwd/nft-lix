@@ -17,6 +17,9 @@ export function main(): Title[] {
 	const RARITY_THIRD_CAST = 0.6;
 	const RARITY_FORTH_CAST = 0.4;
 	const RARITY_FIFTH_CAST = 0.2;
+	const RARITY_FIRST_PRIZE = 0.2;
+	const RARITY_SECOND_PRIZE = 0.1;
+	const RARITY_THIRD_PRIZE = 0.05;
 
 	// Read layouts file
 	let layouts: Layout[] = JSON.parse(
@@ -119,6 +122,23 @@ export function main(): Title[] {
 		}
 		title.cast = [];
 		cast.forEach((c) => title.cast?.push(c.value));
+
+		// Prizes
+		let titlePrizes: Word[] = [];
+		if (Math.random() <= RARITY_FIRST_PRIZE) {
+			let prize: Word = prizes[Math.floor(Math.random() * prizes.length)];
+			titlePrizes.push(prize);
+			if (Math.random() <= RARITY_SECOND_PRIZE) {
+				let prize: Word = prizes[Math.floor(Math.random() * prizes.length)];
+				titlePrizes.push(prize);
+				if (Math.random() <= RARITY_THIRD_PRIZE) {
+					let prize: Word = prizes[Math.floor(Math.random() * prizes.length)];
+					titlePrizes.push(prize);
+				}
+			}
+		}
+		title.prizes = [];
+		titlePrizes.forEach((prize) => title.prizes?.push(prize.value));
 
 		retVals.push(compileTitle(title));
 	}

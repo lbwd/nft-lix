@@ -15,7 +15,16 @@ app.get("/", (req, res) => {
 	let retVal: String = "";
 
 	results.forEach((title) => {
+		// Prizes
+		if (title.prizes) {
+			title.prizes.forEach((prize) => {
+				retVal += prize + "<br />";
+			});
+		}
+
 		retVal += "<b>" + title.value + "</b><br />" + title.directedBy + "<br />";
+
+		// Cast
 		if (title.cast) {
 			retVal += "with";
 			let first = true;
@@ -29,6 +38,7 @@ app.get("/", (req, res) => {
 			});
 			retVal += "<br />";
 		}
+
 		retVal += "<br />";
 	});
 
