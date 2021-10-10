@@ -12,6 +12,11 @@ import {
 // Functions
 export function main(): Title[] {
 	const RANDOM_RUN = 10;
+	const RARITY_SECOND_DIRECTOR = 0.05;
+	const RARITY_SECOND_CAST = 0.8;
+	const RARITY_THIRD_CAST = 0.6;
+	const RARITY_FORTH_CAST = 0.4;
+	const RARITY_FIFTH_CAST = 0.2;
 
 	// Read layouts file
 	let layouts: Layout[] = JSON.parse(
@@ -81,15 +86,39 @@ export function main(): Title[] {
 
 		// Cast and prizes
 		// Director
-		let director = peoples[Math.floor(Math.random() * peoples.length)];
+		let director: Word = peoples[Math.floor(Math.random() * peoples.length)];
 		title.directedBy = "Directed by " + director.value;
-		if (Math.random() <= 0.05) {
+		if (Math.random() <= RARITY_SECOND_DIRECTOR) {
 			// FIXME possible duplicates
 			let secondDirector = peoples[Math.floor(Math.random() * peoples.length)];
 			title.directedBy += " and " + secondDirector.value;
 		}
 
 		// Cast
+		let cast: Word[] = [];
+		let castFirst: Word = peoples[Math.floor(Math.random() * peoples.length)];
+		cast.push(castFirst);
+		if (Math.random() <= RARITY_SECOND_CAST) {
+			let castFirst: Word = peoples[Math.floor(Math.random() * peoples.length)];
+			cast.push(castFirst);
+			if (Math.random() <= RARITY_THIRD_CAST) {
+				let castFirst: Word =
+					peoples[Math.floor(Math.random() * peoples.length)];
+				cast.push(castFirst);
+				if (Math.random() <= RARITY_FORTH_CAST) {
+					let castFirst: Word =
+						peoples[Math.floor(Math.random() * peoples.length)];
+					cast.push(castFirst);
+					if (Math.random() <= RARITY_FIFTH_CAST) {
+						let castFirst: Word =
+							peoples[Math.floor(Math.random() * peoples.length)];
+						cast.push(castFirst);
+					}
+				}
+			}
+		}
+		title.cast = [];
+		cast.forEach((c) => title.cast?.push(c.value));
 
 		retVals.push(compileTitle(title));
 	}

@@ -15,8 +15,21 @@ app.get("/", (req, res) => {
 	let retVal: String = "";
 
 	results.forEach((title) => {
-		retVal +=
-			"<b>" + title.value + "</b><br />" + title.directedBy + "<br /><br />";
+		retVal += "<b>" + title.value + "</b><br />" + title.directedBy + "<br />";
+		if (title.cast) {
+			retVal += "with";
+			let first = true;
+			title.cast.forEach((c) => {
+				if (first) {
+					first = false;
+				} else {
+					retVal += ",";
+				}
+				retVal += " " + c;
+			});
+			retVal += "<br />";
+		}
+		retVal += "<br />";
 	});
 
 	res.status(200).send(retVal);

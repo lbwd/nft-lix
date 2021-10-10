@@ -33,6 +33,14 @@
 	},
 	{
 		"type": "Prize",
-		"value": "\"This is incredibile.\" - Random People"
+		"value": "\"This is incredibile.\" - A random guy"
+	},
+	{
+		"type": "Prize",
+		"value": "\"This is terrible.\" - A comment on youtube trailer"
+	},
+	{
+		"type": "Prize",
+		"value": "\"Wof wof wof wof wof wof.\" - A dog"
 	}
 ]
