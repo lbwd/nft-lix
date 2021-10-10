@@ -19,6 +19,7 @@ export type Word = {
 	pluralValue?: string;
 	randomFrom?: string[];
 	article: boolean;
+	contexts?: Context[];
 };
 
 export type TitleWord = {
@@ -43,4 +44,19 @@ export enum WordSubType {
 	Affix = "Affix",
 	Suffix = "Suffix",
 	Preposition = "Preposition",
+}
+
+export enum Context {
+	Peoples = "Peoples",
+	Work = "Work",
+	Ambient = "Ambient",
+	Technology = "Technology",
+	Food = "Food",
+}
+
+export enum Category {
+	Border = "Border",
+	Object = "Object",
+	Wallpaper = "Wallpaper",
+	Decoration = "Decoration",
 }
