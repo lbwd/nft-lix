@@ -10,6 +10,36 @@
 	{
 		"type": "Noun",
 		"subType": "",
+		"value": "sushi",
+		"article": false,
+		"contexts": ["Food"]
+	},
+	{
+		"type": "Noun",
+		"subType": "",
+		"value": "cheesecake",
+		"pluralValue": "cheesecakes",
+		"article": true,
+		"contexts": ["Food"]
+	},
+	{
+		"type": "Noun",
+		"subType": "",
+		"value": "beef",
+		"article": true,
+		"contexts": ["Food", "People"]
+	},
+	{
+		"type": "Noun",
+		"subType": "",
+		"value": "alien",
+		"pluralValue": "aliens",
+		"article": true,
+		"contexts": ["Creatures"]
+	},
+	{
+		"type": "Noun",
+		"subType": "",
 		"value": "dirt",
 		"pluralValue": "dirts",
 		"article": true,
@@ -140,14 +170,16 @@
 		"subType": "",
 		"value": "girlfriend",
 		"pluralValue": "girlfriends",
-		"article": true
+		"article": true,
+		"context": ["Peoples"]
 	},
 	{
 		"type": "Noun",
 		"subType": "",
 		"value": "engineering",
 		"pluralValue": "engineerings",
-		"article": true
+		"article": true,
+		"context": ["Peoples", "Ambient"]
 	},
 	{
 		"type": "Noun",
@@ -161,35 +193,40 @@
 		"subType": "",
 		"value": "tooth",
 		"pluralValue": "teeth",
-		"article": true
+		"article": true,
+		"context": ["Peoples"]
 	},
 	{
 		"type": "Noun",
 		"subType": "",
 		"value": "studio",
 		"pluralValue": "studios",
-		"article": true
+		"article": true,
+		"context": ["Technology"]
 	},
 	{
 		"type": "Noun",
 		"subType": "",
 		"value": "alcohol",
 		"pluralValue": "alcohols",
-		"article": true
+		"article": true,
+		"context": ["Peoples"]
 	},
 	{
 		"type": "Noun",
 		"subType": "",
 		"value": "mall",
 		"pluralValue": "malls",
-		"article": true
+		"article": true,
+		"context": ["Peoples","Ambient"]
 	},
 	{
 		"type": "Noun",
 		"subType": "",
 		"value": "professor",
 		"pluralValue": "professors",
-		"article": true
+		"article": true,
+		"context": ["Peoples", "Work"]
 	},
 	{
 		"type": "Noun",
@@ -238,14 +275,16 @@
 		"subType": "",
 		"value": "dealer",
 		"pluralValue": "dealers",
-		"article": true
+		"article": true,
+		"context": ["Peoples","Work"]
 	},
 	{
 		"type": "Noun",
 		"subType": "",
 		"value": "driver",
 		"pluralValue": "drivers",
-		"article": true
+		"article": true,
+		"context": ["Peoples","Work"]
 	},
 	{
 		"type": "Noun",
@@ -280,14 +319,17 @@
 		"subType": "",
 		"value": "chemistry",
 		"pluralValue": "chemistry",
-		"article": true
+		"article": true,
+		"context": ["Work"]
+		
 	},
 	{
 		"type": "Noun",
 		"subType": "",
 		"value": "bedroom",
 		"pluralValue": "bedrooms",
-		"article": true
+		"article": true,
+		"context": ["Ambient"]
 	},
 	{
 		"type": "Noun",
@@ -301,14 +343,16 @@
 		"subType": "",
 		"value": "association",
 		"pluralValue": "associations",
-		"article": true
+		"article": true,
+		"context": ["Peoples"]
 	},
 	{
 		"type": "Noun",
 		"subType": "",
 		"value": "army",
 		"pluralValue": "armies",
-		"article": true
+		"article": true,
+		"context": ["War"]
 	},
 	{
 		"type": "Noun",
@@ -322,14 +366,16 @@
 		"subType": "",
 		"value": "bathroom",
 		"pluralValue": "bathrooms",
-		"article": true
+		"article": true,
+		"context": ["Ambient"]
 	},
 	{
 		"type": "Noun",
 		"subType": "",
 		"value": "employee",
 		"pluralValue": "employees",
-		"article": true
+		"article": true,
+		"context": ["Work"]
 	},
 	{
 		"type": "Noun",
@@ -343,14 +389,16 @@
 		"subType": "",
 		"value": "community",
 		"pluralValue": "communities",
-		"article": true
+		"article": true,
+		"context": ["Peoples"]
 	},
 	{
 		"type": "Noun",
 		"subType": "",
 		"value": "stranger",
 		"pluralValue": "strangers",
-		"article": true
+		"article": true,
+		"context": ["Peoples"]
 	},
 	{
 		"type": "Noun",
@@ -396,7 +444,8 @@
 		"type": "Noun",
 		"subType": "",
 		"value": "Hiroshima",
-		"article": false
+		"article": false,
+		"context": ["Ambient"]
 	},
 	{
 		"type": "Noun",
@@ -416,13 +465,8 @@
 		"subType": "",
 		"value": "Generation",
 		"pluralValue": "Generations",
-		"article": false
-	},
-	{
-		"type": "",
-		"subType": "",
-		"value": "Telebbarco",
-		"article": false
+		"article": false,
+		"context": ["Peoples"]
 	},
 	{
 		"type": "",
@@ -455,14 +499,16 @@
 		"value": "Tokyo",
 		"type": "Noun",
 		"subType": "",
-		"article": false
+		"article": false,
+		"context": ["Ambient"]
 	},
 	{
 		"value": "actor",
 		"type": "Noun",
 		"subType": "",
 		"pluralValue": "actors",
-		"article": true
+		"article": true,
+		"context": ["People","Work"]
 	},
 	{
 		"value": "agency",
@@ -511,7 +557,8 @@
 		"type": "Noun",
 		"subType": "",
 		"pluralValue": "birthday",
-		"article": true
+		"article": true,
+		"context": ["Peoples"]
 	},
 	{
 		"value": "bread",
@@ -532,27 +579,22 @@
 		"type": "Noun",
 		"subType": "",
 		"pluralValue": "childhoods",
-		"article": true
+		"article": true,
+		"context": ["Peoples"]
 	},
 	{
 		"value": "city",
 		"type": "Noun",
 		"subType": "",
 		"pluralValue": "cities",
-		"article": true
+		"article": true,
+		"context": ["Ambient"]
 	},
 	{
 		"value": "clothes",
 		"type": "Noun",
 		"subType": "",
 		"article": true
-	},
-	{
-		"value": "coffee",
-		"type": "Noun",
-		"subType": "",
-		"pluralValue": "coffees",
-		"article": false
 	},
 	{
 		"value": "college",
@@ -678,20 +720,14 @@
 		"type": "Noun",
 		"subType": "",
 		"pluralValue": "family",
-		"article": true
+		"article": true,
+		"context": ["Peoples"]
 	},
 	{
 		"value": "fishing",
 		"type": "Noun",
 		"subType": "",
 		"pluralValue": "fishings",
-		"article": true
-	},
-	{
-		"value": "girlfriend",
-		"type": "Noun",
-		"subType": "",
-		"pluralValue": "girlfriends",
 		"article": true
 	},
 	{
@@ -858,7 +894,9 @@
 		"value": "midnight",
 		"type": "Noun",
 		"subType": "",
-		"article": true
+		"article": true,
+		"context": ["Ambient"]
+
 	},
 	{
 		"value": "operation",
@@ -872,14 +910,18 @@
 		"type": "Noun",
 		"subType": "",
 		"pluralValue": "passengers",
-		"article": true
+		"article": true,
+		"context": ["Peoples"]
+
 	},
 	{
 		"value": "passion",
 		"type": "Noun",
 		"subType": "",
 		"pluralValue": "passions",
-		"article": true
+		"article": true,
+		"context": ["Peoples"]
+
 	},
 	{
 		"value": "percentage",
@@ -893,14 +935,18 @@
 		"type": "Noun",
 		"subType": "",
 		"pluralValue": "performances",
-		"article": true
+		"article": true,
+		"context": ["Work"]
+
 	},
 	{
 		"value": "person",
 		"type": "Noun",
 		"subType": "",
 		"pluralValue": "persons",
-		"article": true
+		"article": true,
+		"context": ["Peoples"]
+
 	},
 	{
 		"value": "personality",
@@ -928,14 +974,18 @@
 		"type": "Noun",
 		"subType": "",
 		"pluralValue": "pies",
-		"article": true
+		"article": true,
+		"context": ["Food"]
+
 	},
 	{
 		"value": "pizza",
 		"type": "Noun",
 		"subType": "",
 		"pluralValue": "pizzas",
-		"article": false
+		"article": false,
+		"context": ["Food"]
+
 	},
 	{
 		"value": "platform",
@@ -956,7 +1006,9 @@
 		"type": "Noun",
 		"subType": "",
 		"pluralValue": "possessions",
-		"article": true
+		"article": true,
+		"context": ["Creatures"]
+
 	},
 	{
 		"value": "president",
@@ -1068,7 +1120,9 @@
 		"type": "Noun",
 		"subType": "",
 		"pluralValue": "traditions",
-		"article": true
+		"article": true,
+		"context": ["Peoples"]
+
 	},
 	{
 		"value": "unit",
@@ -1089,21 +1143,25 @@
 		"type": "Noun",
 		"subType": "",
 		"pluralValue": "wifes",
-		"article": true
+		"article": true,
+		"context": ["Peoples"]
 	},
 	{
 		"value": "woman",
 		"type": "Noun",
 		"subType": "",
 		"pluralValue": "women",
-		"article": true
+		"article": true,
+		"context": ["Peoples"]
+
 	},
 	{
 		"value": "world",
 		"type": "Noun",
 		"subType": "",
 		"pluralValue": "worlds",
-		"article": true
+		"article": true,
+		"context": ["Ambient"]
 	},
 	{
 		"value": "abolish",

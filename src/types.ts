@@ -56,6 +56,8 @@ export enum Context {
 	Ambient = "Ambient",
 	Technology = "Technology",
 	Food = "Food",
+	War = "War",
+	Creatures = "Creatures",
 }
 
 export enum Category {
